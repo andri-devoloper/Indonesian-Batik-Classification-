@@ -1,0 +1,1051 @@
+image_path,category,width,height,aspect_ratio,channels,avg_intensity
+dataset/train\Batik Bali\0.jpg,Batik Bali,224,224,1.0,3,108.88
+dataset/train\Batik Bali\1.jpg,Batik Bali,224,224,1.0,3,147.77
+dataset/train\Batik Bali\10.jpg,Batik Bali,224,224,1.0,3,104.28
+dataset/train\Batik Bali\11.jpg,Batik Bali,224,224,1.0,3,127.69
+dataset/train\Batik Bali\12.jpg,Batik Bali,224,224,1.0,3,101.42
+dataset/train\Batik Bali\13.jpg,Batik Bali,224,224,1.0,3,86.07
+dataset/train\Batik Bali\14.jpg,Batik Bali,224,224,1.0,3,95.26
+dataset/train\Batik Bali\15.jpg,Batik Bali,224,224,1.0,3,165.98
+dataset/train\Batik Bali\16.jpg,Batik Bali,224,224,1.0,3,173.83
+dataset/train\Batik Bali\17.jpg,Batik Bali,224,224,1.0,3,79.97
+dataset/train\Batik Bali\18.jpg,Batik Bali,224,224,1.0,3,95.2
+dataset/train\Batik Bali\19.jpg,Batik Bali,224,224,1.0,3,94.15
+dataset/train\Batik Bali\2.jpg,Batik Bali,224,224,1.0,3,82.01
+dataset/train\Batik Bali\20.jpg,Batik Bali,224,224,1.0,3,134.06
+dataset/train\Batik Bali\21.jpg,Batik Bali,224,224,1.0,3,120.32
+dataset/train\Batik Bali\22.jpg,Batik Bali,224,224,1.0,3,174.11
+dataset/train\Batik Bali\23.jpg,Batik Bali,224,224,1.0,3,119.27
+dataset/train\Batik Bali\24.jpg,Batik Bali,224,224,1.0,3,109.35
+dataset/train\Batik Bali\25.jpg,Batik Bali,224,224,1.0,3,99.01
+dataset/train\Batik Bali\26.jpg,Batik Bali,224,224,1.0,3,77.59
+dataset/train\Batik Bali\27.jpg,Batik Bali,224,224,1.0,3,109.59
+dataset/train\Batik Bali\28.jpg,Batik Bali,224,224,1.0,3,84.45
+dataset/train\Batik Bali\29.jpg,Batik Bali,224,224,1.0,3,118.97
+dataset/train\Batik Bali\3.jpg,Batik Bali,224,224,1.0,3,174.51
+dataset/train\Batik Bali\30.jpg,Batik Bali,224,224,1.0,3,110.08
+dataset/train\Batik Bali\31.jpg,Batik Bali,224,224,1.0,3,129.34
+dataset/train\Batik Bali\32.jpg,Batik Bali,224,224,1.0,3,215.97
+dataset/train\Batik Bali\33.jpg,Batik Bali,224,224,1.0,3,192.69
+dataset/train\Batik Bali\34.jpg,Batik Bali,224,224,1.0,3,182.82
+dataset/train\Batik Bali\35.jpg,Batik Bali,224,224,1.0,3,82.2
+dataset/train\Batik Bali\36.jpg,Batik Bali,224,224,1.0,3,172.65
+dataset/train\Batik Bali\37.jpg,Batik Bali,224,224,1.0,3,136.72
+dataset/train\Batik Bali\38.jpg,Batik Bali,224,224,1.0,3,105.32
+dataset/train\Batik Bali\39.jpg,Batik Bali,224,224,1.0,3,86.91
+dataset/train\Batik Bali\4.jpg,Batik Bali,224,224,1.0,3,112.36
+dataset/train\Batik Bali\40.jpg,Batik Bali,224,224,1.0,3,55.96
+dataset/train\Batik Bali\41.jpg,Batik Bali,224,224,1.0,3,138.84
+dataset/train\Batik Bali\42.jpg,Batik Bali,224,224,1.0,3,186.76
+dataset/train\Batik Bali\43.jpg,Batik Bali,224,224,1.0,3,163.37
+dataset/train\Batik Bali\44.jpg,Batik Bali,224,224,1.0,3,110.02
+dataset/train\Batik Bali\45.jpg,Batik Bali,224,224,1.0,3,186.4
+dataset/train\Batik Bali\46.jpg,Batik Bali,224,224,1.0,3,112.93
+dataset/train\Batik Bali\47.jpg,Batik Bali,224,224,1.0,3,151.06
+dataset/train\Batik Bali\48.jpg,Batik Bali,224,224,1.0,3,113.53
+dataset/train\Batik Bali\49.jpg,Batik Bali,224,224,1.0,3,106.4
+dataset/train\Batik Bali\5.jpg,Batik Bali,224,224,1.0,3,135.73
+dataset/train\Batik Bali\50.jpg,Batik Bali,224,224,1.0,3,117.97
+dataset/train\Batik Bali\51.jpg,Batik Bali,224,224,1.0,3,90.86
+dataset/train\Batik Bali\52.jpg,Batik Bali,224,224,1.0,3,117.24
+dataset/train\Batik Bali\53.jpg,Batik Bali,224,224,1.0,3,178.42
+dataset/train\Batik Bali\54.jpg,Batik Bali,224,224,1.0,3,102.31
+dataset/train\Batik Bali\55.jpg,Batik Bali,224,224,1.0,3,115.13
+dataset/train\Batik Bali\56.jpg,Batik Bali,224,224,1.0,3,143.15
+dataset/train\Batik Bali\57.jpg,Batik Bali,224,224,1.0,3,94.5
+dataset/train\Batik Bali\58.jpg,Batik Bali,224,224,1.0,3,96.57
+dataset/train\Batik Bali\59.jpg,Batik Bali,224,224,1.0,3,138.89
+dataset/train\Batik Bali\6.jpg,Batik Bali,224,224,1.0,3,131.52
+dataset/train\Batik Bali\60.jpg,Batik Bali,224,224,1.0,3,113.66
+dataset/train\Batik Bali\61.jpg,Batik Bali,224,224,1.0,3,191.35
+dataset/train\Batik Bali\62.jpg,Batik Bali,224,224,1.0,3,116.49
+dataset/train\Batik Bali\63.jpg,Batik Bali,224,224,1.0,3,174.23
+dataset/train\Batik Bali\64.jpg,Batik Bali,224,224,1.0,3,112.58
+dataset/train\Batik Bali\65.jpg,Batik Bali,224,224,1.0,3,186.25
+dataset/train\Batik Bali\66.jpg,Batik Bali,224,224,1.0,3,80.83
+dataset/train\Batik Bali\67.jpg,Batik Bali,224,224,1.0,3,68.42
+dataset/train\Batik Bali\68.jpg,Batik Bali,224,224,1.0,3,111.18
+dataset/train\Batik Bali\69.jpg,Batik Bali,224,224,1.0,3,100.79
+dataset/train\Batik Bali\7.jpg,Batik Bali,224,224,1.0,3,125.68
+dataset/train\Batik Bali\8.jpg,Batik Bali,224,224,1.0,3,96.5
+dataset/train\Batik Bali\9.jpg,Batik Bali,224,224,1.0,3,85.09
+dataset/train\Batik Betawi\0.jpg,Batik Betawi,224,224,1.0,3,109.45
+dataset/train\Batik Betawi\1.jpg,Batik Betawi,224,224,1.0,3,97.13
+dataset/train\Batik Betawi\10.jpg,Batik Betawi,224,224,1.0,3,106.4
+dataset/train\Batik Betawi\11.jpg,Batik Betawi,224,224,1.0,3,122.07
+dataset/train\Batik Betawi\12.jpg,Batik Betawi,224,224,1.0,3,61.06
+dataset/train\Batik Betawi\13.jpg,Batik Betawi,224,224,1.0,3,106.79
+dataset/train\Batik Betawi\14.jpg,Batik Betawi,224,224,1.0,3,106.8
+dataset/train\Batik Betawi\15.jpg,Batik Betawi,224,224,1.0,3,162.25
+dataset/train\Batik Betawi\16.jpg,Batik Betawi,224,224,1.0,3,88.83
+dataset/train\Batik Betawi\17.jpg,Batik Betawi,224,224,1.0,3,107.56
+dataset/train\Batik Betawi\18.jpg,Batik Betawi,224,224,1.0,3,112.14
+dataset/train\Batik Betawi\19.jpg,Batik Betawi,224,224,1.0,3,105.58
+dataset/train\Batik Betawi\2.jpg,Batik Betawi,224,224,1.0,3,110.62
+dataset/train\Batik Betawi\20.jpg,Batik Betawi,224,224,1.0,3,108.3
+dataset/train\Batik Betawi\21.jpg,Batik Betawi,224,224,1.0,3,121.63
+dataset/train\Batik Betawi\22.jpg,Batik Betawi,224,224,1.0,3,102.73
+dataset/train\Batik Betawi\23.jpg,Batik Betawi,224,224,1.0,3,141.04
+dataset/train\Batik Betawi\24.jpg,Batik Betawi,224,224,1.0,3,110.95
+dataset/train\Batik Betawi\25.jpg,Batik Betawi,224,224,1.0,3,122.08
+dataset/train\Batik Betawi\26.jpg,Batik Betawi,224,224,1.0,3,112.87
+dataset/train\Batik Betawi\27.jpg,Batik Betawi,224,224,1.0,3,90.86
+dataset/train\Batik Betawi\28.jpg,Batik Betawi,224,224,1.0,3,111.2
+dataset/train\Batik Betawi\29.jpg,Batik Betawi,224,224,1.0,3,97.54
+dataset/train\Batik Betawi\3.jpg,Batik Betawi,224,224,1.0,3,104.88
+dataset/train\Batik Betawi\30.jpg,Batik Betawi,224,224,1.0,3,163.78
+dataset/train\Batik Betawi\31.jpg,Batik Betawi,224,224,1.0,3,79.1
+dataset/train\Batik Betawi\32.jpg,Batik Betawi,224,224,1.0,3,112.55
+dataset/train\Batik Betawi\33.jpg,Batik Betawi,224,224,1.0,3,125.9
+dataset/train\Batik Betawi\34.jpg,Batik Betawi,224,224,1.0,3,118.94
+dataset/train\Batik Betawi\35.jpg,Batik Betawi,224,224,1.0,3,99.83
+dataset/train\Batik Betawi\36.jpg,Batik Betawi,224,224,1.0,3,128.12
+dataset/train\Batik Betawi\37.jpg,Batik Betawi,224,224,1.0,3,106.31
+dataset/train\Batik Betawi\38.jpg,Batik Betawi,224,224,1.0,3,97.46
+dataset/train\Batik Betawi\39.jpg,Batik Betawi,224,224,1.0,3,84.54
+dataset/train\Batik Betawi\4.jpg,Batik Betawi,224,224,1.0,3,138.28
+dataset/train\Batik Betawi\40.jpg,Batik Betawi,224,224,1.0,3,136.03
+dataset/train\Batik Betawi\41.jpg,Batik Betawi,224,224,1.0,3,144.65
+dataset/train\Batik Betawi\42.jpg,Batik Betawi,224,224,1.0,3,102.96
+dataset/train\Batik Betawi\43.jpg,Batik Betawi,224,224,1.0,3,88.61
+dataset/train\Batik Betawi\44.jpg,Batik Betawi,224,224,1.0,3,136.51
+dataset/train\Batik Betawi\45.jpg,Batik Betawi,224,224,1.0,3,111.95
+dataset/train\Batik Betawi\46.jpg,Batik Betawi,224,224,1.0,3,102.75
+dataset/train\Batik Betawi\47.jpg,Batik Betawi,224,224,1.0,3,71.15
+dataset/train\Batik Betawi\48.jpg,Batik Betawi,224,224,1.0,3,49.43
+dataset/train\Batik Betawi\49.jpg,Batik Betawi,224,224,1.0,3,122.48
+dataset/train\Batik Betawi\5.jpg,Batik Betawi,224,224,1.0,3,130.33
+dataset/train\Batik Betawi\50.jpg,Batik Betawi,224,224,1.0,3,99.91
+dataset/train\Batik Betawi\51.jpg,Batik Betawi,224,224,1.0,3,65.26
+dataset/train\Batik Betawi\52.jpg,Batik Betawi,224,224,1.0,3,76.16
+dataset/train\Batik Betawi\53.jpg,Batik Betawi,224,224,1.0,3,54.7
+dataset/train\Batik Betawi\54.jpg,Batik Betawi,224,224,1.0,3,105.73
+dataset/train\Batik Betawi\55.jpg,Batik Betawi,224,224,1.0,3,102.38
+dataset/train\Batik Betawi\56.jpg,Batik Betawi,224,224,1.0,3,88.35
+dataset/train\Batik Betawi\57.jpg,Batik Betawi,224,224,1.0,3,73.73
+dataset/train\Batik Betawi\58.jpg,Batik Betawi,224,224,1.0,3,91.73
+dataset/train\Batik Betawi\59.jpg,Batik Betawi,224,224,1.0,3,91.34
+dataset/train\Batik Betawi\6.jpg,Batik Betawi,224,224,1.0,3,87.53
+dataset/train\Batik Betawi\60.jpg,Batik Betawi,224,224,1.0,3,106.8
+dataset/train\Batik Betawi\61.jpg,Batik Betawi,224,224,1.0,3,135.08
+dataset/train\Batik Betawi\62.jpg,Batik Betawi,224,224,1.0,3,82.89
+dataset/train\Batik Betawi\63.jpg,Batik Betawi,224,224,1.0,3,123.69
+dataset/train\Batik Betawi\64.jpg,Batik Betawi,224,224,1.0,3,92.03
+dataset/train\Batik Betawi\65.jpg,Batik Betawi,224,224,1.0,3,122.32
+dataset/train\Batik Betawi\66.jpg,Batik Betawi,224,224,1.0,3,113.5
+dataset/train\Batik Betawi\67.jpg,Batik Betawi,224,224,1.0,3,113.63
+dataset/train\Batik Betawi\68.jpg,Batik Betawi,224,224,1.0,3,112.09
+dataset/train\Batik Betawi\69.jpg,Batik Betawi,224,224,1.0,3,110.62
+dataset/train\Batik Betawi\7.jpg,Batik Betawi,224,224,1.0,3,141.94
+dataset/train\Batik Betawi\8.jpg,Batik Betawi,224,224,1.0,3,168.23
+dataset/train\Batik Betawi\9.jpg,Batik Betawi,224,224,1.0,3,108.3
+dataset/train\Batik Cendrawasih\0.jpg,Batik Cendrawasih,224,224,1.0,3,100.17
+dataset/train\Batik Cendrawasih\1.jpg,Batik Cendrawasih,224,224,1.0,3,119.21
+dataset/train\Batik Cendrawasih\10.jpg,Batik Cendrawasih,224,224,1.0,3,126.63
+dataset/train\Batik Cendrawasih\11.jpg,Batik Cendrawasih,224,224,1.0,3,93.02
+dataset/train\Batik Cendrawasih\12.jpg,Batik Cendrawasih,224,224,1.0,3,91.65
+dataset/train\Batik Cendrawasih\13.jpg,Batik Cendrawasih,224,224,1.0,3,95.6
+dataset/train\Batik Cendrawasih\14.jpg,Batik Cendrawasih,224,224,1.0,3,121.92
+dataset/train\Batik Cendrawasih\15.jpg,Batik Cendrawasih,224,224,1.0,3,101.55
+dataset/train\Batik Cendrawasih\16.jpg,Batik Cendrawasih,224,224,1.0,3,175.18
+dataset/train\Batik Cendrawasih\17.jpg,Batik Cendrawasih,224,224,1.0,3,116.31
+dataset/train\Batik Cendrawasih\18.jpg,Batik Cendrawasih,224,224,1.0,3,156.09
+dataset/train\Batik Cendrawasih\19.jpg,Batik Cendrawasih,224,224,1.0,3,41.61
+dataset/train\Batik Cendrawasih\2.jpg,Batik Cendrawasih,224,224,1.0,3,92.18
+dataset/train\Batik Cendrawasih\20.jpg,Batik Cendrawasih,224,224,1.0,3,62.87
+dataset/train\Batik Cendrawasih\21.jpg,Batik Cendrawasih,224,224,1.0,3,145.88
+dataset/train\Batik Cendrawasih\22.jpg,Batik Cendrawasih,224,224,1.0,3,103.03
+dataset/train\Batik Cendrawasih\23.jpg,Batik Cendrawasih,224,224,1.0,3,111.73
+dataset/train\Batik Cendrawasih\24.jpg,Batik Cendrawasih,224,224,1.0,3,56.48
+dataset/train\Batik Cendrawasih\25.jpg,Batik Cendrawasih,224,224,1.0,3,113.29
+dataset/train\Batik Cendrawasih\26.jpg,Batik Cendrawasih,224,224,1.0,3,106.2
+dataset/train\Batik Cendrawasih\27.jpg,Batik Cendrawasih,224,224,1.0,3,104.78
+dataset/train\Batik Cendrawasih\28.jpg,Batik Cendrawasih,224,224,1.0,3,116.36
+dataset/train\Batik Cendrawasih\29.jpg,Batik Cendrawasih,224,224,1.0,3,102.14
+dataset/train\Batik Cendrawasih\3.jpg,Batik Cendrawasih,224,224,1.0,3,114.06
+dataset/train\Batik Cendrawasih\30.jpg,Batik Cendrawasih,224,224,1.0,3,114.31
+dataset/train\Batik Cendrawasih\31.jpg,Batik Cendrawasih,224,224,1.0,3,93.1
+dataset/train\Batik Cendrawasih\32.jpg,Batik Cendrawasih,224,224,1.0,3,106.24
+dataset/train\Batik Cendrawasih\33.jpg,Batik Cendrawasih,224,224,1.0,3,130.81
+dataset/train\Batik Cendrawasih\34.jpg,Batik Cendrawasih,224,224,1.0,3,118.49
+dataset/train\Batik Cendrawasih\35.jpg,Batik Cendrawasih,224,224,1.0,3,160.71
+dataset/train\Batik Cendrawasih\36.jpg,Batik Cendrawasih,224,224,1.0,3,146.06
+dataset/train\Batik Cendrawasih\37.jpg,Batik Cendrawasih,224,224,1.0,3,168.4
+dataset/train\Batik Cendrawasih\38.jpg,Batik Cendrawasih,224,224,1.0,3,103.07
+dataset/train\Batik Cendrawasih\39.jpg,Batik Cendrawasih,224,224,1.0,3,133.03
+dataset/train\Batik Cendrawasih\4.jpg,Batik Cendrawasih,224,224,1.0,3,140.95
+dataset/train\Batik Cendrawasih\40.jpg,Batik Cendrawasih,224,224,1.0,3,116.55
+dataset/train\Batik Cendrawasih\41.jpg,Batik Cendrawasih,224,224,1.0,3,113.72
+dataset/train\Batik Cendrawasih\42.jpg,Batik Cendrawasih,224,224,1.0,3,124.29
+dataset/train\Batik Cendrawasih\43.jpg,Batik Cendrawasih,224,224,1.0,3,121.74
+dataset/train\Batik Cendrawasih\44.jpg,Batik Cendrawasih,224,224,1.0,3,123.77
+dataset/train\Batik Cendrawasih\45.jpg,Batik Cendrawasih,224,224,1.0,3,76.52
+dataset/train\Batik Cendrawasih\46.jpg,Batik Cendrawasih,224,224,1.0,3,106.32
+dataset/train\Batik Cendrawasih\47.jpg,Batik Cendrawasih,224,224,1.0,3,100.54
+dataset/train\Batik Cendrawasih\48.jpg,Batik Cendrawasih,224,224,1.0,3,121.41
+dataset/train\Batik Cendrawasih\49.jpg,Batik Cendrawasih,224,224,1.0,3,92.41
+dataset/train\Batik Cendrawasih\5.jpg,Batik Cendrawasih,224,224,1.0,3,116.25
+dataset/train\Batik Cendrawasih\50.jpg,Batik Cendrawasih,224,224,1.0,3,50.85
+dataset/train\Batik Cendrawasih\51.jpg,Batik Cendrawasih,224,224,1.0,3,92.71
+dataset/train\Batik Cendrawasih\52.jpg,Batik Cendrawasih,224,224,1.0,3,77.08
+dataset/train\Batik Cendrawasih\53.jpg,Batik Cendrawasih,224,224,1.0,3,56.48
+dataset/train\Batik Cendrawasih\54.jpg,Batik Cendrawasih,224,224,1.0,3,89.51
+dataset/train\Batik Cendrawasih\55.jpg,Batik Cendrawasih,224,224,1.0,3,32.19
+dataset/train\Batik Cendrawasih\56.jpg,Batik Cendrawasih,224,224,1.0,3,74.96
+dataset/train\Batik Cendrawasih\57.jpg,Batik Cendrawasih,224,224,1.0,3,106.72
+dataset/train\Batik Cendrawasih\58.jpg,Batik Cendrawasih,224,224,1.0,3,44.97
+dataset/train\Batik Cendrawasih\59.jpg,Batik Cendrawasih,224,224,1.0,3,99.41
+dataset/train\Batik Cendrawasih\6.jpg,Batik Cendrawasih,224,224,1.0,3,96.94
+dataset/train\Batik Cendrawasih\60.jpg,Batik Cendrawasih,224,224,1.0,3,119.95
+dataset/train\Batik Cendrawasih\61.jpg,Batik Cendrawasih,224,224,1.0,3,67.06
+dataset/train\Batik Cendrawasih\62.jpg,Batik Cendrawasih,224,224,1.0,3,114.78
+dataset/train\Batik Cendrawasih\63.jpg,Batik Cendrawasih,224,224,1.0,3,81.74
+dataset/train\Batik Cendrawasih\64.jpg,Batik Cendrawasih,224,224,1.0,3,142.39
+dataset/train\Batik Cendrawasih\65.jpg,Batik Cendrawasih,224,224,1.0,3,82.28
+dataset/train\Batik Cendrawasih\66.jpg,Batik Cendrawasih,224,224,1.0,3,70.54
+dataset/train\Batik Cendrawasih\67.jpg,Batik Cendrawasih,224,224,1.0,3,81.26
+dataset/train\Batik Cendrawasih\68.jpg,Batik Cendrawasih,224,224,1.0,3,200.32
+dataset/train\Batik Cendrawasih\69.jpg,Batik Cendrawasih,224,224,1.0,3,54.65
+dataset/train\Batik Cendrawasih\7.jpg,Batik Cendrawasih,224,224,1.0,3,103.36
+dataset/train\Batik Cendrawasih\8.jpg,Batik Cendrawasih,224,224,1.0,3,88.28
+dataset/train\Batik Cendrawasih\9.jpg,Batik Cendrawasih,224,224,1.0,3,189.57
+dataset/train\Batik Dayak\0.jpg,Batik Dayak,224,224,1.0,3,125.51
+dataset/train\Batik Dayak\1.jpg,Batik Dayak,224,224,1.0,3,145.15
+dataset/train\Batik Dayak\10.jpg,Batik Dayak,224,224,1.0,3,118.69
+dataset/train\Batik Dayak\11.jpg,Batik Dayak,224,224,1.0,3,174.61
+dataset/train\Batik Dayak\12.jpg,Batik Dayak,224,224,1.0,3,132.17
+dataset/train\Batik Dayak\13.jpg,Batik Dayak,224,224,1.0,3,117.52
+dataset/train\Batik Dayak\14.jpg,Batik Dayak,224,224,1.0,3,70.8
+dataset/train\Batik Dayak\15.jpg,Batik Dayak,224,224,1.0,3,142.64
+dataset/train\Batik Dayak\16.jpg,Batik Dayak,224,224,1.0,3,80.67
+dataset/train\Batik Dayak\17.jpg,Batik Dayak,224,224,1.0,3,128.49
+dataset/train\Batik Dayak\18.jpg,Batik Dayak,224,224,1.0,3,178.65
+dataset/train\Batik Dayak\19.jpg,Batik Dayak,224,224,1.0,3,81.3
+dataset/train\Batik Dayak\2.jpg,Batik Dayak,224,224,1.0,3,106.42
+dataset/train\Batik Dayak\20.jpg,Batik Dayak,224,224,1.0,3,85.79
+dataset/train\Batik Dayak\21.jpg,Batik Dayak,224,224,1.0,3,107.72
+dataset/train\Batik Dayak\22.jpg,Batik Dayak,224,224,1.0,3,111.93
+dataset/train\Batik Dayak\23.jpg,Batik Dayak,224,224,1.0,3,97.73
+dataset/train\Batik Dayak\24.jpg,Batik Dayak,224,224,1.0,3,109.36
+dataset/train\Batik Dayak\25.jpg,Batik Dayak,224,224,1.0,3,79.99
+dataset/train\Batik Dayak\26.jpg,Batik Dayak,224,224,1.0,3,153.69
+dataset/train\Batik Dayak\27.jpg,Batik Dayak,224,224,1.0,3,148.48
+dataset/train\Batik Dayak\28.jpg,Batik Dayak,224,224,1.0,3,161.42
+dataset/train\Batik Dayak\29.jpg,Batik Dayak,224,224,1.0,3,102.35
+dataset/train\Batik Dayak\3.jpg,Batik Dayak,224,224,1.0,3,195.75
+dataset/train\Batik Dayak\30.jpg,Batik Dayak,224,224,1.0,3,197.03
+dataset/train\Batik Dayak\31.jpg,Batik Dayak,224,224,1.0,3,108.98
+dataset/train\Batik Dayak\32.jpg,Batik Dayak,224,224,1.0,3,130.69
+dataset/train\Batik Dayak\33.jpg,Batik Dayak,224,224,1.0,3,137.17
+dataset/train\Batik Dayak\34.jpg,Batik Dayak,224,224,1.0,3,61.63
+dataset/train\Batik Dayak\35.jpg,Batik Dayak,224,224,1.0,3,111.57
+dataset/train\Batik Dayak\36.jpg,Batik Dayak,224,224,1.0,3,91.02
+dataset/train\Batik Dayak\37.jpg,Batik Dayak,224,224,1.0,3,107.36
+dataset/train\Batik Dayak\38.jpg,Batik Dayak,224,224,1.0,3,85.89
+dataset/train\Batik Dayak\39.jpg,Batik Dayak,224,224,1.0,3,117.39
+dataset/train\Batik Dayak\4.jpg,Batik Dayak,224,224,1.0,3,114.95
+dataset/train\Batik Dayak\40.jpg,Batik Dayak,224,224,1.0,3,161.63
+dataset/train\Batik Dayak\41.jpg,Batik Dayak,224,224,1.0,3,55.61
+dataset/train\Batik Dayak\42.jpg,Batik Dayak,224,224,1.0,3,105.84
+dataset/train\Batik Dayak\43.jpg,Batik Dayak,224,224,1.0,3,79.56
+dataset/train\Batik Dayak\44.jpg,Batik Dayak,224,224,1.0,3,114.88
+dataset/train\Batik Dayak\45.jpg,Batik Dayak,224,224,1.0,3,125.74
+dataset/train\Batik Dayak\46.jpg,Batik Dayak,224,224,1.0,3,132.55
+dataset/train\Batik Dayak\47.jpg,Batik Dayak,224,224,1.0,3,111.46
+dataset/train\Batik Dayak\48.jpg,Batik Dayak,224,224,1.0,3,120.91
+dataset/train\Batik Dayak\49.jpg,Batik Dayak,224,224,1.0,3,106.91
+dataset/train\Batik Dayak\5.jpg,Batik Dayak,224,224,1.0,3,87.5
+dataset/train\Batik Dayak\50.jpg,Batik Dayak,224,224,1.0,3,91.57
+dataset/train\Batik Dayak\51.jpg,Batik Dayak,224,224,1.0,3,103.45
+dataset/train\Batik Dayak\52.jpg,Batik Dayak,224,224,1.0,3,140.11
+dataset/train\Batik Dayak\53.jpg,Batik Dayak,224,224,1.0,3,105.65
+dataset/train\Batik Dayak\54.jpg,Batik Dayak,224,224,1.0,3,78.52
+dataset/train\Batik Dayak\55.jpg,Batik Dayak,224,224,1.0,3,83.19
+dataset/train\Batik Dayak\56.jpg,Batik Dayak,224,224,1.0,3,93.3
+dataset/train\Batik Dayak\57.jpg,Batik Dayak,224,224,1.0,3,129.99
+dataset/train\Batik Dayak\58.jpg,Batik Dayak,224,224,1.0,3,118.5
+dataset/train\Batik Dayak\59.jpg,Batik Dayak,224,224,1.0,3,84.93
+dataset/train\Batik Dayak\6.jpg,Batik Dayak,224,224,1.0,3,186.16
+dataset/train\Batik Dayak\60.jpg,Batik Dayak,224,224,1.0,3,72.27
+dataset/train\Batik Dayak\61.jpg,Batik Dayak,224,224,1.0,3,102.58
+dataset/train\Batik Dayak\62.jpg,Batik Dayak,224,224,1.0,3,92.48
+dataset/train\Batik Dayak\63.jpg,Batik Dayak,224,224,1.0,3,104.58
+dataset/train\Batik Dayak\64.jpg,Batik Dayak,224,224,1.0,3,91.41
+dataset/train\Batik Dayak\65.jpg,Batik Dayak,224,224,1.0,3,172.08
+dataset/train\Batik Dayak\66.jpg,Batik Dayak,224,224,1.0,3,87.89
+dataset/train\Batik Dayak\67.jpg,Batik Dayak,224,224,1.0,3,106.24
+dataset/train\Batik Dayak\68.jpg,Batik Dayak,224,224,1.0,3,125.59
+dataset/train\Batik Dayak\69.jpg,Batik Dayak,224,224,1.0,3,97.93
+dataset/train\Batik Dayak\7.jpg,Batik Dayak,224,224,1.0,3,104.97
+dataset/train\Batik Dayak\8.jpg,Batik Dayak,224,224,1.0,3,91.09
+dataset/train\Batik Dayak\9.jpg,Batik Dayak,224,224,1.0,3,87.37
+dataset/train\Batik Geblek Renteng\0.jpg,Batik Geblek Renteng,224,224,1.0,3,103.8
+dataset/train\Batik Geblek Renteng\1.jpg,Batik Geblek Renteng,224,224,1.0,3,72.57
+dataset/train\Batik Geblek Renteng\10.jpg,Batik Geblek Renteng,224,224,1.0,3,40.27
+dataset/train\Batik Geblek Renteng\11.jpg,Batik Geblek Renteng,224,224,1.0,3,118.4
+dataset/train\Batik Geblek Renteng\12.jpg,Batik Geblek Renteng,224,224,1.0,3,127.78
+dataset/train\Batik Geblek Renteng\13.jpg,Batik Geblek Renteng,224,224,1.0,3,100.46
+dataset/train\Batik Geblek Renteng\14.jpg,Batik Geblek Renteng,224,224,1.0,3,117.1
+dataset/train\Batik Geblek Renteng\15.jpg,Batik Geblek Renteng,224,224,1.0,3,159.57
+dataset/train\Batik Geblek Renteng\16.jpg,Batik Geblek Renteng,224,224,1.0,3,114.86
+dataset/train\Batik Geblek Renteng\17.jpg,Batik Geblek Renteng,224,224,1.0,3,73.95
+dataset/train\Batik Geblek Renteng\18.jpg,Batik Geblek Renteng,224,224,1.0,3,28.01
+dataset/train\Batik Geblek Renteng\19.jpg,Batik Geblek Renteng,224,224,1.0,3,89.24
+dataset/train\Batik Geblek Renteng\2.jpg,Batik Geblek Renteng,224,224,1.0,3,86.04
+dataset/train\Batik Geblek Renteng\20.jpg,Batik Geblek Renteng,224,224,1.0,3,120.24
+dataset/train\Batik Geblek Renteng\21.jpg,Batik Geblek Renteng,224,224,1.0,3,73.29
+dataset/train\Batik Geblek Renteng\22.jpg,Batik Geblek Renteng,224,224,1.0,3,80.38
+dataset/train\Batik Geblek Renteng\23.jpg,Batik Geblek Renteng,224,224,1.0,3,37.78
+dataset/train\Batik Geblek Renteng\24.jpg,Batik Geblek Renteng,224,224,1.0,3,94.84
+dataset/train\Batik Geblek Renteng\25.jpg,Batik Geblek Renteng,224,224,1.0,3,82.15
+dataset/train\Batik Geblek Renteng\26.jpg,Batik Geblek Renteng,224,224,1.0,3,176.87
+dataset/train\Batik Geblek Renteng\27.jpg,Batik Geblek Renteng,224,224,1.0,3,74.91
+dataset/train\Batik Geblek Renteng\28.jpg,Batik Geblek Renteng,224,224,1.0,3,84.84
+dataset/train\Batik Geblek Renteng\29.jpg,Batik Geblek Renteng,224,224,1.0,3,98.39
+dataset/train\Batik Geblek Renteng\3.jpg,Batik Geblek Renteng,224,224,1.0,3,164.62
+dataset/train\Batik Geblek Renteng\30.jpg,Batik Geblek Renteng,224,224,1.0,3,95.76
+dataset/train\Batik Geblek Renteng\31.jpg,Batik Geblek Renteng,224,224,1.0,3,101.44
+dataset/train\Batik Geblek Renteng\32.jpg,Batik Geblek Renteng,224,224,1.0,3,63.28
+dataset/train\Batik Geblek Renteng\33.jpg,Batik Geblek Renteng,224,224,1.0,3,48.05
+dataset/train\Batik Geblek Renteng\34.jpg,Batik Geblek Renteng,224,224,1.0,3,119.93
+dataset/train\Batik Geblek Renteng\35.jpg,Batik Geblek Renteng,224,224,1.0,3,95.24
+dataset/train\Batik Geblek Renteng\36.jpg,Batik Geblek Renteng,224,224,1.0,3,173.01
+dataset/train\Batik Geblek Renteng\37.jpg,Batik Geblek Renteng,224,224,1.0,3,44.39
+dataset/train\Batik Geblek Renteng\38.jpg,Batik Geblek Renteng,224,224,1.0,3,102.3
+dataset/train\Batik Geblek Renteng\39.jpg,Batik Geblek Renteng,224,224,1.0,3,155.16
+dataset/train\Batik Geblek Renteng\4.jpg,Batik Geblek Renteng,224,224,1.0,3,69.47
+dataset/train\Batik Geblek Renteng\40.jpg,Batik Geblek Renteng,224,224,1.0,3,93.67
+dataset/train\Batik Geblek Renteng\41.jpg,Batik Geblek Renteng,224,224,1.0,3,116.66
+dataset/train\Batik Geblek Renteng\42.jpg,Batik Geblek Renteng,224,224,1.0,3,121.73
+dataset/train\Batik Geblek Renteng\43.jpg,Batik Geblek Renteng,224,224,1.0,3,129.51
+dataset/train\Batik Geblek Renteng\44.jpg,Batik Geblek Renteng,224,224,1.0,3,106.59
+dataset/train\Batik Geblek Renteng\45.jpg,Batik Geblek Renteng,224,224,1.0,3,134.12
+dataset/train\Batik Geblek Renteng\46.jpg,Batik Geblek Renteng,224,224,1.0,3,118.58
+dataset/train\Batik Geblek Renteng\47.jpg,Batik Geblek Renteng,224,224,1.0,3,119.24
+dataset/train\Batik Geblek Renteng\48.jpg,Batik Geblek Renteng,224,224,1.0,3,190.71
+dataset/train\Batik Geblek Renteng\49.jpg,Batik Geblek Renteng,224,224,1.0,3,120.64
+dataset/train\Batik Geblek Renteng\5.jpg,Batik Geblek Renteng,224,224,1.0,3,111.9
+dataset/train\Batik Geblek Renteng\50.jpg,Batik Geblek Renteng,224,224,1.0,3,88.33
+dataset/train\Batik Geblek Renteng\51.jpg,Batik Geblek Renteng,224,224,1.0,3,98.7
+dataset/train\Batik Geblek Renteng\52.jpg,Batik Geblek Renteng,224,224,1.0,3,73.11
+dataset/train\Batik Geblek Renteng\53.jpg,Batik Geblek Renteng,224,224,1.0,3,62.92
+dataset/train\Batik Geblek Renteng\54.jpg,Batik Geblek Renteng,224,224,1.0,3,190.63
+dataset/train\Batik Geblek Renteng\55.jpg,Batik Geblek Renteng,224,224,1.0,3,89.32
+dataset/train\Batik Geblek Renteng\56.jpg,Batik Geblek Renteng,224,224,1.0,3,85.47
+dataset/train\Batik Geblek Renteng\57.jpg,Batik Geblek Renteng,224,224,1.0,3,162.67
+dataset/train\Batik Geblek Renteng\58.jpg,Batik Geblek Renteng,224,224,1.0,3,159.14
+dataset/train\Batik Geblek Renteng\59.jpg,Batik Geblek Renteng,224,224,1.0,3,69.58
+dataset/train\Batik Geblek Renteng\6.jpg,Batik Geblek Renteng,224,224,1.0,3,95.16
+dataset/train\Batik Geblek Renteng\60.jpg,Batik Geblek Renteng,224,224,1.0,3,97.83
+dataset/train\Batik Geblek Renteng\61.jpg,Batik Geblek Renteng,224,224,1.0,3,91.83
+dataset/train\Batik Geblek Renteng\62.jpg,Batik Geblek Renteng,224,224,1.0,3,134.17
+dataset/train\Batik Geblek Renteng\63.jpg,Batik Geblek Renteng,224,224,1.0,3,110.37
+dataset/train\Batik Geblek Renteng\64.jpg,Batik Geblek Renteng,224,224,1.0,3,110.75
+dataset/train\Batik Geblek Renteng\65.jpg,Batik Geblek Renteng,224,224,1.0,3,109.42
+dataset/train\Batik Geblek Renteng\66.jpg,Batik Geblek Renteng,224,224,1.0,3,158.44
+dataset/train\Batik Geblek Renteng\67.jpg,Batik Geblek Renteng,224,224,1.0,3,162.83
+dataset/train\Batik Geblek Renteng\68.jpg,Batik Geblek Renteng,224,224,1.0,3,188.77
+dataset/train\Batik Geblek Renteng\69.jpg,Batik Geblek Renteng,224,224,1.0,3,119.53
+dataset/train\Batik Geblek Renteng\7.jpg,Batik Geblek Renteng,224,224,1.0,3,107.15
+dataset/train\Batik Geblek Renteng\8.jpg,Batik Geblek Renteng,224,224,1.0,3,51.16
+dataset/train\Batik Geblek Renteng\9.jpg,Batik Geblek Renteng,224,224,1.0,3,102.8
+dataset/train\Batik Ikat Celup\0.jpg,Batik Ikat Celup,224,224,1.0,3,119.97
+dataset/train\Batik Ikat Celup\1.jpg,Batik Ikat Celup,224,224,1.0,3,74.83
+dataset/train\Batik Ikat Celup\10.jpg,Batik Ikat Celup,224,224,1.0,3,113.98
+dataset/train\Batik Ikat Celup\11.jpg,Batik Ikat Celup,224,224,1.0,3,143.58
+dataset/train\Batik Ikat Celup\12.jpg,Batik Ikat Celup,224,224,1.0,3,134.22
+dataset/train\Batik Ikat Celup\13.jpg,Batik Ikat Celup,224,224,1.0,3,88.95
+dataset/train\Batik Ikat Celup\14.jpg,Batik Ikat Celup,224,224,1.0,3,125.19
+dataset/train\Batik Ikat Celup\15.jpg,Batik Ikat Celup,224,224,1.0,3,104.44
+dataset/train\Batik Ikat Celup\16.jpg,Batik Ikat Celup,224,224,1.0,3,125.4
+dataset/train\Batik Ikat Celup\17.jpg,Batik Ikat Celup,224,224,1.0,3,88.95
+dataset/train\Batik Ikat Celup\18.jpg,Batik Ikat Celup,224,224,1.0,3,114.95
+dataset/train\Batik Ikat Celup\19.jpg,Batik Ikat Celup,224,224,1.0,3,162.26
+dataset/train\Batik Ikat Celup\2.jpg,Batik Ikat Celup,224,224,1.0,3,74.97
+dataset/train\Batik Ikat Celup\20.jpg,Batik Ikat Celup,224,224,1.0,3,197.36
+dataset/train\Batik Ikat Celup\21.jpg,Batik Ikat Celup,224,224,1.0,3,141.42
+dataset/train\Batik Ikat Celup\22.jpg,Batik Ikat Celup,224,224,1.0,3,170.7
+dataset/train\Batik Ikat Celup\23.jpg,Batik Ikat Celup,224,224,1.0,3,108.54
+dataset/train\Batik Ikat Celup\24.jpg,Batik Ikat Celup,224,224,1.0,3,122.84
+dataset/train\Batik Ikat Celup\25.jpg,Batik Ikat Celup,224,224,1.0,3,124.83
+dataset/train\Batik Ikat Celup\26.jpg,Batik Ikat Celup,224,224,1.0,3,125.37
+dataset/train\Batik Ikat Celup\27.jpg,Batik Ikat Celup,224,224,1.0,3,102.14
+dataset/train\Batik Ikat Celup\28.jpg,Batik Ikat Celup,224,224,1.0,3,95.45
+dataset/train\Batik Ikat Celup\29.jpg,Batik Ikat Celup,224,224,1.0,3,167.02
+dataset/train\Batik Ikat Celup\3.jpg,Batik Ikat Celup,224,224,1.0,3,101.33
+dataset/train\Batik Ikat Celup\30.jpg,Batik Ikat Celup,224,224,1.0,3,106.1
+dataset/train\Batik Ikat Celup\31.jpg,Batik Ikat Celup,224,224,1.0,3,93.26
+dataset/train\Batik Ikat Celup\32.jpg,Batik Ikat Celup,224,224,1.0,3,98.08
+dataset/train\Batik Ikat Celup\33.jpg,Batik Ikat Celup,224,224,1.0,3,208.02
+dataset/train\Batik Ikat Celup\34.jpg,Batik Ikat Celup,224,224,1.0,3,142.01
+dataset/train\Batik Ikat Celup\35.jpg,Batik Ikat Celup,224,224,1.0,3,95.45
+dataset/train\Batik Ikat Celup\36.jpg,Batik Ikat Celup,224,224,1.0,3,102.9
+dataset/train\Batik Ikat Celup\37.jpg,Batik Ikat Celup,224,224,1.0,3,150.91
+dataset/train\Batik Ikat Celup\38.jpg,Batik Ikat Celup,224,224,1.0,3,132.27
+dataset/train\Batik Ikat Celup\39.jpg,Batik Ikat Celup,224,224,1.0,3,103.62
+dataset/train\Batik Ikat Celup\4.jpg,Batik Ikat Celup,224,224,1.0,3,90.99
+dataset/train\Batik Ikat Celup\40.jpg,Batik Ikat Celup,224,224,1.0,3,126.6
+dataset/train\Batik Ikat Celup\41.jpg,Batik Ikat Celup,224,224,1.0,3,117.54
+dataset/train\Batik Ikat Celup\42.jpg,Batik Ikat Celup,224,224,1.0,3,104.89
+dataset/train\Batik Ikat Celup\43.jpg,Batik Ikat Celup,224,224,1.0,3,102.82
+dataset/train\Batik Ikat Celup\44.jpg,Batik Ikat Celup,224,224,1.0,3,94.08
+dataset/train\Batik Ikat Celup\45.jpg,Batik Ikat Celup,224,224,1.0,3,128.57
+dataset/train\Batik Ikat Celup\46.jpg,Batik Ikat Celup,224,224,1.0,3,89.64
+dataset/train\Batik Ikat Celup\47.jpg,Batik Ikat Celup,224,224,1.0,3,139.86
+dataset/train\Batik Ikat Celup\48.jpg,Batik Ikat Celup,224,224,1.0,3,97.61
+dataset/train\Batik Ikat Celup\49.jpg,Batik Ikat Celup,224,224,1.0,3,93.4
+dataset/train\Batik Ikat Celup\5.jpg,Batik Ikat Celup,224,224,1.0,3,72.05
+dataset/train\Batik Ikat Celup\50.jpg,Batik Ikat Celup,224,224,1.0,3,139.52
+dataset/train\Batik Ikat Celup\51.jpg,Batik Ikat Celup,224,224,1.0,3,122.85
+dataset/train\Batik Ikat Celup\52.jpg,Batik Ikat Celup,224,224,1.0,3,201.9
+dataset/train\Batik Ikat Celup\53.jpg,Batik Ikat Celup,224,224,1.0,3,86.31
+dataset/train\Batik Ikat Celup\54.jpg,Batik Ikat Celup,224,224,1.0,3,113.69
+dataset/train\Batik Ikat Celup\55.jpg,Batik Ikat Celup,224,224,1.0,3,132.53
+dataset/train\Batik Ikat Celup\56.jpg,Batik Ikat Celup,224,224,1.0,3,109.61
+dataset/train\Batik Ikat Celup\57.jpg,Batik Ikat Celup,224,224,1.0,3,137.89
+dataset/train\Batik Ikat Celup\58.jpg,Batik Ikat Celup,224,224,1.0,3,109.88
+dataset/train\Batik Ikat Celup\59.jpg,Batik Ikat Celup,224,224,1.0,3,134.52
+dataset/train\Batik Ikat Celup\6.jpg,Batik Ikat Celup,224,224,1.0,3,153.7
+dataset/train\Batik Ikat Celup\60.jpg,Batik Ikat Celup,224,224,1.0,3,101.27
+dataset/train\Batik Ikat Celup\61.jpg,Batik Ikat Celup,224,224,1.0,3,94.07
+dataset/train\Batik Ikat Celup\62.jpg,Batik Ikat Celup,224,224,1.0,3,115.07
+dataset/train\Batik Ikat Celup\63.jpg,Batik Ikat Celup,224,224,1.0,3,96.88
+dataset/train\Batik Ikat Celup\64.jpg,Batik Ikat Celup,224,224,1.0,3,119.33
+dataset/train\Batik Ikat Celup\65.jpg,Batik Ikat Celup,224,224,1.0,3,94.08
+dataset/train\Batik Ikat Celup\66.jpg,Batik Ikat Celup,224,224,1.0,3,132.74
+dataset/train\Batik Ikat Celup\67.jpg,Batik Ikat Celup,224,224,1.0,3,103.68
+dataset/train\Batik Ikat Celup\68.jpg,Batik Ikat Celup,224,224,1.0,3,105.92
+dataset/train\Batik Ikat Celup\69.jpg,Batik Ikat Celup,224,224,1.0,3,125.19
+dataset/train\Batik Ikat Celup\7.jpg,Batik Ikat Celup,224,224,1.0,3,153.88
+dataset/train\Batik Ikat Celup\8.jpg,Batik Ikat Celup,224,224,1.0,3,130.52
+dataset/train\Batik Ikat Celup\9.jpg,Batik Ikat Celup,224,224,1.0,3,82.33
+dataset/train\Batik Insang\0.jpg,Batik Insang,224,224,1.0,3,173.66
+dataset/train\Batik Insang\1.jpg,Batik Insang,224,224,1.0,3,123.93
+dataset/train\Batik Insang\10.jpg,Batik Insang,224,224,1.0,3,154.36
+dataset/train\Batik Insang\11.jpg,Batik Insang,224,224,1.0,3,162.31
+dataset/train\Batik Insang\12.jpg,Batik Insang,224,224,1.0,3,101.77
+dataset/train\Batik Insang\13.jpg,Batik Insang,224,224,1.0,3,96.49
+dataset/train\Batik Insang\14.jpg,Batik Insang,224,224,1.0,3,106.96
+dataset/train\Batik Insang\15.jpg,Batik Insang,224,224,1.0,3,125.41
+dataset/train\Batik Insang\16.jpg,Batik Insang,224,224,1.0,3,140.09
+dataset/train\Batik Insang\17.jpg,Batik Insang,224,224,1.0,3,128.2
+dataset/train\Batik Insang\18.jpg,Batik Insang,224,224,1.0,3,125.02
+dataset/train\Batik Insang\19.jpg,Batik Insang,224,224,1.0,3,136.29
+dataset/train\Batik Insang\2.jpg,Batik Insang,224,224,1.0,3,106.16
+dataset/train\Batik Insang\20.jpg,Batik Insang,224,224,1.0,3,113.25
+dataset/train\Batik Insang\21.jpg,Batik Insang,224,224,1.0,3,70.99
+dataset/train\Batik Insang\22.jpg,Batik Insang,224,224,1.0,3,133.03
+dataset/train\Batik Insang\23.jpg,Batik Insang,224,224,1.0,3,126.7
+dataset/train\Batik Insang\24.jpg,Batik Insang,224,224,1.0,3,117.09
+dataset/train\Batik Insang\25.jpg,Batik Insang,224,224,1.0,3,85.64
+dataset/train\Batik Insang\26.jpg,Batik Insang,224,224,1.0,3,136.44
+dataset/train\Batik Insang\27.jpg,Batik Insang,224,224,1.0,3,91.57
+dataset/train\Batik Insang\28.jpg,Batik Insang,224,224,1.0,3,58.22
+dataset/train\Batik Insang\29.jpg,Batik Insang,224,224,1.0,3,96.83
+dataset/train\Batik Insang\3.jpg,Batik Insang,224,224,1.0,3,108.61
+dataset/train\Batik Insang\30.jpg,Batik Insang,224,224,1.0,3,124.71
+dataset/train\Batik Insang\31.jpg,Batik Insang,224,224,1.0,3,103.84
+dataset/train\Batik Insang\32.jpg,Batik Insang,224,224,1.0,3,154.86
+dataset/train\Batik Insang\33.jpg,Batik Insang,224,224,1.0,3,156.02
+dataset/train\Batik Insang\34.jpg,Batik Insang,224,224,1.0,3,128.21
+dataset/train\Batik Insang\35.jpg,Batik Insang,224,224,1.0,3,94.87
+dataset/train\Batik Insang\36.jpg,Batik Insang,224,224,1.0,3,147.1
+dataset/train\Batik Insang\37.jpg,Batik Insang,224,224,1.0,3,145.49
+dataset/train\Batik Insang\38.jpg,Batik Insang,224,224,1.0,3,141.92
+dataset/train\Batik Insang\39.jpg,Batik Insang,224,224,1.0,3,111.09
+dataset/train\Batik Insang\4.jpg,Batik Insang,224,224,1.0,3,127.12
+dataset/train\Batik Insang\40.jpg,Batik Insang,224,224,1.0,3,133.61
+dataset/train\Batik Insang\41.jpg,Batik Insang,224,224,1.0,3,112.57
+dataset/train\Batik Insang\42.jpg,Batik Insang,224,224,1.0,3,178.86
+dataset/train\Batik Insang\43.jpg,Batik Insang,224,224,1.0,3,117.51
+dataset/train\Batik Insang\44.jpg,Batik Insang,224,224,1.0,3,169.26
+dataset/train\Batik Insang\45.jpg,Batik Insang,224,224,1.0,3,108.6
+dataset/train\Batik Insang\46.jpg,Batik Insang,224,224,1.0,3,135.64
+dataset/train\Batik Insang\47.jpg,Batik Insang,224,224,1.0,3,80.22
+dataset/train\Batik Insang\48.jpg,Batik Insang,224,224,1.0,3,136.54
+dataset/train\Batik Insang\49.jpg,Batik Insang,224,224,1.0,3,121.36
+dataset/train\Batik Insang\5.jpg,Batik Insang,224,224,1.0,3,141.88
+dataset/train\Batik Insang\50.jpg,Batik Insang,224,224,1.0,3,146.08
+dataset/train\Batik Insang\51.jpg,Batik Insang,224,224,1.0,3,97.73
+dataset/train\Batik Insang\52.jpg,Batik Insang,224,224,1.0,3,81.23
+dataset/train\Batik Insang\53.jpg,Batik Insang,224,224,1.0,3,157.64
+dataset/train\Batik Insang\54.jpg,Batik Insang,224,224,1.0,3,93.96
+dataset/train\Batik Insang\55.jpg,Batik Insang,224,224,1.0,3,105.18
+dataset/train\Batik Insang\56.jpg,Batik Insang,224,224,1.0,3,119.53
+dataset/train\Batik Insang\57.jpg,Batik Insang,224,224,1.0,3,118.63
+dataset/train\Batik Insang\58.jpg,Batik Insang,224,224,1.0,3,101.92
+dataset/train\Batik Insang\59.jpg,Batik Insang,224,224,1.0,3,145.33
+dataset/train\Batik Insang\6.jpg,Batik Insang,224,224,1.0,3,137.39
+dataset/train\Batik Insang\60.jpg,Batik Insang,224,224,1.0,3,77.68
+dataset/train\Batik Insang\61.jpg,Batik Insang,224,224,1.0,3,101.61
+dataset/train\Batik Insang\62.jpg,Batik Insang,224,224,1.0,3,124.32
+dataset/train\Batik Insang\63.jpg,Batik Insang,224,224,1.0,3,109.71
+dataset/train\Batik Insang\64.jpg,Batik Insang,224,224,1.0,3,142.11
+dataset/train\Batik Insang\65.jpg,Batik Insang,224,224,1.0,3,136.33
+dataset/train\Batik Insang\66.jpg,Batik Insang,224,224,1.0,3,99.21
+dataset/train\Batik Insang\67.jpg,Batik Insang,224,224,1.0,3,127.44
+dataset/train\Batik Insang\68.jpg,Batik Insang,224,224,1.0,3,179.75
+dataset/train\Batik Insang\69.jpg,Batik Insang,224,224,1.0,3,140.83
+dataset/train\Batik Insang\7.jpg,Batik Insang,224,224,1.0,3,99.67
+dataset/train\Batik Insang\8.jpg,Batik Insang,224,224,1.0,3,85.95
+dataset/train\Batik Insang\9.jpg,Batik Insang,224,224,1.0,3,89.1
+dataset/train\Batik Kawung\0.jpg,Batik Kawung,224,224,1.0,3,142.85
+dataset/train\Batik Kawung\1.jpg,Batik Kawung,224,224,1.0,3,113.9
+dataset/train\Batik Kawung\10.jpg,Batik Kawung,224,224,1.0,3,137.7
+dataset/train\Batik Kawung\11.jpg,Batik Kawung,224,224,1.0,3,146.73
+dataset/train\Batik Kawung\12.jpg,Batik Kawung,224,224,1.0,3,161.51
+dataset/train\Batik Kawung\13.jpg,Batik Kawung,224,224,1.0,3,112.4
+dataset/train\Batik Kawung\14.jpg,Batik Kawung,224,224,1.0,3,140.78
+dataset/train\Batik Kawung\15.jpg,Batik Kawung,224,224,1.0,3,179.35
+dataset/train\Batik Kawung\16.jpg,Batik Kawung,224,224,1.0,3,122.72
+dataset/train\Batik Kawung\17.jpg,Batik Kawung,224,224,1.0,3,115.39
+dataset/train\Batik Kawung\18.jpg,Batik Kawung,224,224,1.0,3,145.67
+dataset/train\Batik Kawung\19.jpg,Batik Kawung,224,224,1.0,3,156.64
+dataset/train\Batik Kawung\2.jpg,Batik Kawung,224,224,1.0,3,132.75
+dataset/train\Batik Kawung\20.jpg,Batik Kawung,224,224,1.0,3,135.78
+dataset/train\Batik Kawung\21.jpg,Batik Kawung,224,224,1.0,3,161.45
+dataset/train\Batik Kawung\22.jpg,Batik Kawung,224,224,1.0,3,38.93
+dataset/train\Batik Kawung\23.jpg,Batik Kawung,224,224,1.0,3,144.69
+dataset/train\Batik Kawung\24.jpg,Batik Kawung,224,224,1.0,3,126.22
+dataset/train\Batik Kawung\25.jpg,Batik Kawung,224,224,1.0,3,114.91
+dataset/train\Batik Kawung\26.jpg,Batik Kawung,224,224,1.0,3,118.26
+dataset/train\Batik Kawung\27.jpg,Batik Kawung,224,224,1.0,3,88.96
+dataset/train\Batik Kawung\28.jpg,Batik Kawung,224,224,1.0,3,193.5
+dataset/train\Batik Kawung\29.jpg,Batik Kawung,224,224,1.0,3,153.87
+dataset/train\Batik Kawung\3.jpg,Batik Kawung,224,224,1.0,3,119.04
+dataset/train\Batik Kawung\30.jpg,Batik Kawung,224,224,1.0,3,139.51
+dataset/train\Batik Kawung\31.jpg,Batik Kawung,224,224,1.0,3,143.13
+dataset/train\Batik Kawung\32.jpg,Batik Kawung,224,224,1.0,3,149.61
+dataset/train\Batik Kawung\33.jpg,Batik Kawung,224,224,1.0,3,150.96
+dataset/train\Batik Kawung\34.jpg,Batik Kawung,224,224,1.0,3,113.66
+dataset/train\Batik Kawung\35.jpg,Batik Kawung,224,224,1.0,3,160.08
+dataset/train\Batik Kawung\36.jpg,Batik Kawung,224,224,1.0,3,115.9
+dataset/train\Batik Kawung\37.jpg,Batik Kawung,224,224,1.0,3,168.64
+dataset/train\Batik Kawung\38.jpg,Batik Kawung,224,224,1.0,3,143.65
+dataset/train\Batik Kawung\39.jpg,Batik Kawung,224,224,1.0,3,131.2
+dataset/train\Batik Kawung\4.jpg,Batik Kawung,224,224,1.0,3,134.74
+dataset/train\Batik Kawung\40.jpg,Batik Kawung,224,224,1.0,3,91.16
+dataset/train\Batik Kawung\41.jpg,Batik Kawung,224,224,1.0,3,132.55
+dataset/train\Batik Kawung\42.jpg,Batik Kawung,224,224,1.0,3,141.63
+dataset/train\Batik Kawung\43.jpg,Batik Kawung,224,224,1.0,3,108.56
+dataset/train\Batik Kawung\44.jpg,Batik Kawung,224,224,1.0,3,111.67
+dataset/train\Batik Kawung\45.jpg,Batik Kawung,224,224,1.0,3,208.46
+dataset/train\Batik Kawung\46.jpg,Batik Kawung,224,224,1.0,3,120.97
+dataset/train\Batik Kawung\47.jpg,Batik Kawung,224,224,1.0,3,121.07
+dataset/train\Batik Kawung\48.jpg,Batik Kawung,224,224,1.0,3,139.36
+dataset/train\Batik Kawung\49.jpg,Batik Kawung,224,224,1.0,3,99.33
+dataset/train\Batik Kawung\5.jpg,Batik Kawung,224,224,1.0,3,144.66
+dataset/train\Batik Kawung\50.jpg,Batik Kawung,224,224,1.0,3,135.68
+dataset/train\Batik Kawung\51.jpg,Batik Kawung,224,224,1.0,3,112.58
+dataset/train\Batik Kawung\52.jpg,Batik Kawung,224,224,1.0,3,111.67
+dataset/train\Batik Kawung\53.jpg,Batik Kawung,224,224,1.0,3,130.29
+dataset/train\Batik Kawung\54.jpg,Batik Kawung,224,224,1.0,3,130.31
+dataset/train\Batik Kawung\55.jpg,Batik Kawung,224,224,1.0,3,94.42
+dataset/train\Batik Kawung\56.jpg,Batik Kawung,224,224,1.0,3,162.58
+dataset/train\Batik Kawung\57.jpg,Batik Kawung,224,224,1.0,3,100.82
+dataset/train\Batik Kawung\58.jpg,Batik Kawung,224,224,1.0,3,164.22
+dataset/train\Batik Kawung\59.jpg,Batik Kawung,224,224,1.0,3,116.26
+dataset/train\Batik Kawung\6.jpg,Batik Kawung,224,224,1.0,3,132.57
+dataset/train\Batik Kawung\60.jpg,Batik Kawung,224,224,1.0,3,132.87
+dataset/train\Batik Kawung\61.jpg,Batik Kawung,224,224,1.0,3,133.98
+dataset/train\Batik Kawung\62.jpg,Batik Kawung,224,224,1.0,3,113.95
+dataset/train\Batik Kawung\63.jpg,Batik Kawung,224,224,1.0,3,162.18
+dataset/train\Batik Kawung\64.jpg,Batik Kawung,224,224,1.0,3,206.46
+dataset/train\Batik Kawung\65.jpg,Batik Kawung,224,224,1.0,3,140.71
+dataset/train\Batik Kawung\66.jpg,Batik Kawung,224,224,1.0,3,179.95
+dataset/train\Batik Kawung\67.jpg,Batik Kawung,224,224,1.0,3,82.16
+dataset/train\Batik Kawung\68.jpg,Batik Kawung,224,224,1.0,3,154.39
+dataset/train\Batik Kawung\69.jpg,Batik Kawung,224,224,1.0,3,124.88
+dataset/train\Batik Kawung\7.jpg,Batik Kawung,224,224,1.0,3,133.61
+dataset/train\Batik Kawung\8.jpg,Batik Kawung,224,224,1.0,3,125.25
+dataset/train\Batik Kawung\9.jpg,Batik Kawung,224,224,1.0,3,150.2
+dataset/train\Batik Lasem\0.jpg,Batik Lasem,224,224,1.0,3,134.09
+dataset/train\Batik Lasem\1.jpg,Batik Lasem,224,224,1.0,3,146.83
+dataset/train\Batik Lasem\10.jpg,Batik Lasem,224,224,1.0,3,126.99
+dataset/train\Batik Lasem\11.jpg,Batik Lasem,224,224,1.0,3,111.72
+dataset/train\Batik Lasem\12.jpg,Batik Lasem,224,224,1.0,3,95.29
+dataset/train\Batik Lasem\13.jpg,Batik Lasem,224,224,1.0,3,129.93
+dataset/train\Batik Lasem\14.jpg,Batik Lasem,224,224,1.0,3,98.71
+dataset/train\Batik Lasem\15.jpg,Batik Lasem,224,224,1.0,3,99.74
+dataset/train\Batik Lasem\16.jpg,Batik Lasem,224,224,1.0,3,107.39
+dataset/train\Batik Lasem\17.jpg,Batik Lasem,224,224,1.0,3,84.91
+dataset/train\Batik Lasem\18.jpg,Batik Lasem,224,224,1.0,3,121.32
+dataset/train\Batik Lasem\19.jpg,Batik Lasem,224,224,1.0,3,111.6
+dataset/train\Batik Lasem\2.jpg,Batik Lasem,224,224,1.0,3,126.53
+dataset/train\Batik Lasem\20.jpg,Batik Lasem,224,224,1.0,3,125.42
+dataset/train\Batik Lasem\21.jpg,Batik Lasem,224,224,1.0,3,153.39
+dataset/train\Batik Lasem\22.jpg,Batik Lasem,224,224,1.0,3,85.84
+dataset/train\Batik Lasem\23.jpg,Batik Lasem,224,224,1.0,3,63.39
+dataset/train\Batik Lasem\24.jpg,Batik Lasem,224,224,1.0,3,97.88
+dataset/train\Batik Lasem\25.jpg,Batik Lasem,224,224,1.0,3,72.5
+dataset/train\Batik Lasem\26.jpg,Batik Lasem,224,224,1.0,3,99.26
+dataset/train\Batik Lasem\27.jpg,Batik Lasem,224,224,1.0,3,147.83
+dataset/train\Batik Lasem\28.jpg,Batik Lasem,224,224,1.0,3,116.9
+dataset/train\Batik Lasem\29.jpg,Batik Lasem,224,224,1.0,3,126.01
+dataset/train\Batik Lasem\3.jpg,Batik Lasem,224,224,1.0,3,124.26
+dataset/train\Batik Lasem\30.jpg,Batik Lasem,224,224,1.0,3,131.72
+dataset/train\Batik Lasem\31.jpg,Batik Lasem,224,224,1.0,3,91.59
+dataset/train\Batik Lasem\32.jpg,Batik Lasem,224,224,1.0,3,167.06
+dataset/train\Batik Lasem\33.jpg,Batik Lasem,224,224,1.0,3,110.31
+dataset/train\Batik Lasem\34.jpg,Batik Lasem,224,224,1.0,3,88.43
+dataset/train\Batik Lasem\35.jpg,Batik Lasem,224,224,1.0,3,121.56
+dataset/train\Batik Lasem\36.jpg,Batik Lasem,224,224,1.0,3,124.55
+dataset/train\Batik Lasem\37.jpg,Batik Lasem,224,224,1.0,3,133.07
+dataset/train\Batik Lasem\38.jpg,Batik Lasem,224,224,1.0,3,89.57
+dataset/train\Batik Lasem\39.jpg,Batik Lasem,224,224,1.0,3,108.01
+dataset/train\Batik Lasem\4.jpg,Batik Lasem,224,224,1.0,3,139.03
+dataset/train\Batik Lasem\40.jpg,Batik Lasem,224,224,1.0,3,88.85
+dataset/train\Batik Lasem\41.jpg,Batik Lasem,224,224,1.0,3,121.33
+dataset/train\Batik Lasem\42.jpg,Batik Lasem,224,224,1.0,3,108.39
+dataset/train\Batik Lasem\43.jpg,Batik Lasem,224,224,1.0,3,111.41
+dataset/train\Batik Lasem\44.jpg,Batik Lasem,224,224,1.0,3,108.57
+dataset/train\Batik Lasem\45.jpg,Batik Lasem,224,224,1.0,3,133.05
+dataset/train\Batik Lasem\46.jpg,Batik Lasem,224,224,1.0,3,157.69
+dataset/train\Batik Lasem\47.jpg,Batik Lasem,224,224,1.0,3,121.17
+dataset/train\Batik Lasem\48.jpg,Batik Lasem,224,224,1.0,3,82.89
+dataset/train\Batik Lasem\49.jpg,Batik Lasem,224,224,1.0,3,128.9
+dataset/train\Batik Lasem\5.jpg,Batik Lasem,224,224,1.0,3,111.89
+dataset/train\Batik Lasem\50.jpg,Batik Lasem,224,224,1.0,3,118.18
+dataset/train\Batik Lasem\51.jpg,Batik Lasem,224,224,1.0,3,110.97
+dataset/train\Batik Lasem\52.jpg,Batik Lasem,224,224,1.0,3,108.27
+dataset/train\Batik Lasem\53.jpg,Batik Lasem,224,224,1.0,3,103.34
+dataset/train\Batik Lasem\54.jpg,Batik Lasem,224,224,1.0,3,113.47
+dataset/train\Batik Lasem\55.jpg,Batik Lasem,224,224,1.0,3,107.39
+dataset/train\Batik Lasem\56.jpg,Batik Lasem,224,224,1.0,3,104.86
+dataset/train\Batik Lasem\57.jpg,Batik Lasem,224,224,1.0,3,147.61
+dataset/train\Batik Lasem\58.jpg,Batik Lasem,224,224,1.0,3,79.03
+dataset/train\Batik Lasem\59.jpg,Batik Lasem,224,224,1.0,3,127.77
+dataset/train\Batik Lasem\6.jpg,Batik Lasem,224,224,1.0,3,128.43
+dataset/train\Batik Lasem\60.jpg,Batik Lasem,224,224,1.0,3,70.27
+dataset/train\Batik Lasem\61.jpg,Batik Lasem,224,224,1.0,3,81.17
+dataset/train\Batik Lasem\62.jpg,Batik Lasem,224,224,1.0,3,128.39
+dataset/train\Batik Lasem\63.jpg,Batik Lasem,224,224,1.0,3,110.51
+dataset/train\Batik Lasem\64.jpg,Batik Lasem,224,224,1.0,3,75.97
+dataset/train\Batik Lasem\65.jpg,Batik Lasem,224,224,1.0,3,124.24
+dataset/train\Batik Lasem\66.jpg,Batik Lasem,224,224,1.0,3,127.59
+dataset/train\Batik Lasem\67.jpg,Batik Lasem,224,224,1.0,3,103.14
+dataset/train\Batik Lasem\68.jpg,Batik Lasem,224,224,1.0,3,116.45
+dataset/train\Batik Lasem\69.jpg,Batik Lasem,224,224,1.0,3,119.51
+dataset/train\Batik Lasem\7.jpg,Batik Lasem,224,224,1.0,3,103.63
+dataset/train\Batik Lasem\8.jpg,Batik Lasem,224,224,1.0,3,97.12
+dataset/train\Batik Lasem\9.jpg,Batik Lasem,224,224,1.0,3,97.01
+dataset/train\Batik Megamendung\0.jpg,Batik Megamendung,224,224,1.0,3,95.97
+dataset/train\Batik Megamendung\1.jpg,Batik Megamendung,224,224,1.0,3,102.98
+dataset/train\Batik Megamendung\10.jpg,Batik Megamendung,224,224,1.0,3,119.25
+dataset/train\Batik Megamendung\11.jpg,Batik Megamendung,224,224,1.0,3,77.48
+dataset/train\Batik Megamendung\12.jpg,Batik Megamendung,224,224,1.0,3,85.49
+dataset/train\Batik Megamendung\13.jpg,Batik Megamendung,224,224,1.0,3,186.19
+dataset/train\Batik Megamendung\14.jpg,Batik Megamendung,224,224,1.0,3,149.99
+dataset/train\Batik Megamendung\15.jpg,Batik Megamendung,224,224,1.0,3,71.2
+dataset/train\Batik Megamendung\16.jpg,Batik Megamendung,224,224,1.0,3,94.27
+dataset/train\Batik Megamendung\17.jpg,Batik Megamendung,224,224,1.0,3,154.74
+dataset/train\Batik Megamendung\18.jpg,Batik Megamendung,224,224,1.0,3,146.09
+dataset/train\Batik Megamendung\19.jpg,Batik Megamendung,224,224,1.0,3,108.8
+dataset/train\Batik Megamendung\2.jpg,Batik Megamendung,224,224,1.0,3,105.63
+dataset/train\Batik Megamendung\20.jpg,Batik Megamendung,224,224,1.0,3,80.46
+dataset/train\Batik Megamendung\21.jpg,Batik Megamendung,224,224,1.0,3,126.27
+dataset/train\Batik Megamendung\22.jpg,Batik Megamendung,224,224,1.0,3,154.62
+dataset/train\Batik Megamendung\23.jpg,Batik Megamendung,224,224,1.0,3,63.6
+dataset/train\Batik Megamendung\24.jpg,Batik Megamendung,224,224,1.0,3,101.42
+dataset/train\Batik Megamendung\25.jpg,Batik Megamendung,224,224,1.0,3,122.28
+dataset/train\Batik Megamendung\26.jpg,Batik Megamendung,224,224,1.0,3,96.29
+dataset/train\Batik Megamendung\27.jpg,Batik Megamendung,224,224,1.0,3,105.3
+dataset/train\Batik Megamendung\28.jpg,Batik Megamendung,224,224,1.0,3,199.92
+dataset/train\Batik Megamendung\29.jpg,Batik Megamendung,224,224,1.0,3,164.42
+dataset/train\Batik Megamendung\3.jpg,Batik Megamendung,224,224,1.0,3,122.31
+dataset/train\Batik Megamendung\30.jpg,Batik Megamendung,224,224,1.0,3,152.23
+dataset/train\Batik Megamendung\31.jpg,Batik Megamendung,224,224,1.0,3,124.13
+dataset/train\Batik Megamendung\32.jpg,Batik Megamendung,224,224,1.0,3,188.28
+dataset/train\Batik Megamendung\33.jpg,Batik Megamendung,224,224,1.0,3,115.25
+dataset/train\Batik Megamendung\34.jpg,Batik Megamendung,224,224,1.0,3,148.02
+dataset/train\Batik Megamendung\35.jpg,Batik Megamendung,224,224,1.0,3,131.94
+dataset/train\Batik Megamendung\36.jpg,Batik Megamendung,224,224,1.0,3,120.23
+dataset/train\Batik Megamendung\37.jpg,Batik Megamendung,224,224,1.0,3,111.6
+dataset/train\Batik Megamendung\38.jpg,Batik Megamendung,224,224,1.0,3,101.11
+dataset/train\Batik Megamendung\39.jpg,Batik Megamendung,224,224,1.0,3,49.26
+dataset/train\Batik Megamendung\4.jpg,Batik Megamendung,224,224,1.0,3,132.59
+dataset/train\Batik Megamendung\40.jpg,Batik Megamendung,224,224,1.0,3,203.63
+dataset/train\Batik Megamendung\41.jpg,Batik Megamendung,224,224,1.0,3,117.98
+dataset/train\Batik Megamendung\42.jpg,Batik Megamendung,224,224,1.0,3,123.12
+dataset/train\Batik Megamendung\43.jpg,Batik Megamendung,224,224,1.0,3,82.86
+dataset/train\Batik Megamendung\44.jpg,Batik Megamendung,224,224,1.0,3,140.11
+dataset/train\Batik Megamendung\45.jpg,Batik Megamendung,224,224,1.0,3,122.24
+dataset/train\Batik Megamendung\46.jpg,Batik Megamendung,224,224,1.0,3,80.56
+dataset/train\Batik Megamendung\47.jpg,Batik Megamendung,224,224,1.0,3,161.87
+dataset/train\Batik Megamendung\48.jpg,Batik Megamendung,224,224,1.0,3,97.55
+dataset/train\Batik Megamendung\49.jpg,Batik Megamendung,224,224,1.0,3,108.68
+dataset/train\Batik Megamendung\5.jpg,Batik Megamendung,224,224,1.0,3,225.27
+dataset/train\Batik Megamendung\50.jpg,Batik Megamendung,224,224,1.0,3,80.76
+dataset/train\Batik Megamendung\51.jpg,Batik Megamendung,224,224,1.0,3,163.94
+dataset/train\Batik Megamendung\52.jpg,Batik Megamendung,224,224,1.0,3,113.22
+dataset/train\Batik Megamendung\53.jpg,Batik Megamendung,224,224,1.0,3,168.3
+dataset/train\Batik Megamendung\54.jpg,Batik Megamendung,224,224,1.0,3,174.87
+dataset/train\Batik Megamendung\55.jpg,Batik Megamendung,224,224,1.0,3,103.69
+dataset/train\Batik Megamendung\56.jpg,Batik Megamendung,224,224,1.0,3,125.28
+dataset/train\Batik Megamendung\57.jpg,Batik Megamendung,224,224,1.0,3,156.33
+dataset/train\Batik Megamendung\58.jpg,Batik Megamendung,224,224,1.0,3,118.9
+dataset/train\Batik Megamendung\59.jpg,Batik Megamendung,224,224,1.0,3,108.93
+dataset/train\Batik Megamendung\6.jpg,Batik Megamendung,224,224,1.0,3,94.84
+dataset/train\Batik Megamendung\60.jpg,Batik Megamendung,224,224,1.0,3,143.72
+dataset/train\Batik Megamendung\61.jpg,Batik Megamendung,224,224,1.0,3,109.48
+dataset/train\Batik Megamendung\62.jpg,Batik Megamendung,224,224,1.0,3,145.98
+dataset/train\Batik Megamendung\63.jpg,Batik Megamendung,224,224,1.0,3,119.55
+dataset/train\Batik Megamendung\64.jpg,Batik Megamendung,224,224,1.0,3,96.22
+dataset/train\Batik Megamendung\65.jpg,Batik Megamendung,224,224,1.0,3,175.01
+dataset/train\Batik Megamendung\66.jpg,Batik Megamendung,224,224,1.0,3,129.46
+dataset/train\Batik Megamendung\67.jpg,Batik Megamendung,224,224,1.0,3,135.87
+dataset/train\Batik Megamendung\68.jpg,Batik Megamendung,224,224,1.0,3,126.06
+dataset/train\Batik Megamendung\69.jpg,Batik Megamendung,224,224,1.0,3,193.19
+dataset/train\Batik Megamendung\7.jpg,Batik Megamendung,224,224,1.0,3,122.45
+dataset/train\Batik Megamendung\8.jpg,Batik Megamendung,224,224,1.0,3,82.16
+dataset/train\Batik Megamendung\9.jpg,Batik Megamendung,224,224,1.0,3,105.7
+dataset/train\Batik Pala\0.jpg,Batik Pala,224,224,1.0,3,74.84
+dataset/train\Batik Pala\1.jpg,Batik Pala,224,224,1.0,3,131.02
+dataset/train\Batik Pala\10.jpg,Batik Pala,224,224,1.0,3,161.7
+dataset/train\Batik Pala\11.jpg,Batik Pala,224,224,1.0,3,89.31
+dataset/train\Batik Pala\12.jpg,Batik Pala,224,224,1.0,3,125.01
+dataset/train\Batik Pala\13.jpg,Batik Pala,224,224,1.0,3,123.09
+dataset/train\Batik Pala\14.jpg,Batik Pala,224,224,1.0,3,98.95
+dataset/train\Batik Pala\15.jpg,Batik Pala,224,224,1.0,3,111.64
+dataset/train\Batik Pala\16.jpg,Batik Pala,224,224,1.0,3,126.35
+dataset/train\Batik Pala\17.jpg,Batik Pala,224,224,1.0,3,129.04
+dataset/train\Batik Pala\18.jpg,Batik Pala,224,224,1.0,3,103.36
+dataset/train\Batik Pala\19.jpg,Batik Pala,224,224,1.0,3,109.71
+dataset/train\Batik Pala\2.jpg,Batik Pala,224,224,1.0,3,180.5
+dataset/train\Batik Pala\20.jpg,Batik Pala,224,224,1.0,3,118.32
+dataset/train\Batik Pala\21.jpg,Batik Pala,224,224,1.0,3,116.0
+dataset/train\Batik Pala\22.jpg,Batik Pala,224,224,1.0,3,129.45
+dataset/train\Batik Pala\23.jpg,Batik Pala,224,224,1.0,3,123.56
+dataset/train\Batik Pala\24.jpg,Batik Pala,224,224,1.0,3,86.96
+dataset/train\Batik Pala\25.jpg,Batik Pala,224,224,1.0,3,114.74
+dataset/train\Batik Pala\26.jpg,Batik Pala,224,224,1.0,3,118.6
+dataset/train\Batik Pala\27.jpg,Batik Pala,224,224,1.0,3,83.04
+dataset/train\Batik Pala\28.jpg,Batik Pala,224,224,1.0,3,101.71
+dataset/train\Batik Pala\29.jpg,Batik Pala,224,224,1.0,3,110.12
+dataset/train\Batik Pala\3.jpg,Batik Pala,224,224,1.0,3,195.11
+dataset/train\Batik Pala\30.jpg,Batik Pala,224,224,1.0,3,103.93
+dataset/train\Batik Pala\31.jpg,Batik Pala,224,224,1.0,3,179.05
+dataset/train\Batik Pala\32.jpg,Batik Pala,224,224,1.0,3,113.47
+dataset/train\Batik Pala\33.jpg,Batik Pala,224,224,1.0,3,88.85
+dataset/train\Batik Pala\34.jpg,Batik Pala,224,224,1.0,3,77.35
+dataset/train\Batik Pala\35.jpg,Batik Pala,224,224,1.0,3,94.23
+dataset/train\Batik Pala\36.jpg,Batik Pala,224,224,1.0,3,143.2
+dataset/train\Batik Pala\37.jpg,Batik Pala,224,224,1.0,3,104.09
+dataset/train\Batik Pala\38.jpg,Batik Pala,224,224,1.0,3,101.49
+dataset/train\Batik Pala\39.jpg,Batik Pala,224,224,1.0,3,129.89
+dataset/train\Batik Pala\4.jpg,Batik Pala,224,224,1.0,3,110.06
+dataset/train\Batik Pala\40.jpg,Batik Pala,224,224,1.0,3,83.05
+dataset/train\Batik Pala\41.jpg,Batik Pala,224,224,1.0,3,102.43
+dataset/train\Batik Pala\42.jpg,Batik Pala,224,224,1.0,3,117.85
+dataset/train\Batik Pala\43.jpg,Batik Pala,224,224,1.0,3,86.54
+dataset/train\Batik Pala\44.jpg,Batik Pala,224,224,1.0,3,155.2
+dataset/train\Batik Pala\45.jpg,Batik Pala,224,224,1.0,3,57.53
+dataset/train\Batik Pala\46.jpg,Batik Pala,224,224,1.0,3,104.83
+dataset/train\Batik Pala\47.jpg,Batik Pala,224,224,1.0,3,119.77
+dataset/train\Batik Pala\48.jpg,Batik Pala,224,224,1.0,3,104.12
+dataset/train\Batik Pala\49.jpg,Batik Pala,224,224,1.0,3,88.39
+dataset/train\Batik Pala\5.jpg,Batik Pala,224,224,1.0,3,103.74
+dataset/train\Batik Pala\50.jpg,Batik Pala,224,224,1.0,3,106.31
+dataset/train\Batik Pala\51.jpg,Batik Pala,224,224,1.0,3,112.94
+dataset/train\Batik Pala\52.jpg,Batik Pala,224,224,1.0,3,70.13
+dataset/train\Batik Pala\53.jpg,Batik Pala,224,224,1.0,3,91.63
+dataset/train\Batik Pala\54.jpg,Batik Pala,224,224,1.0,3,106.38
+dataset/train\Batik Pala\55.jpg,Batik Pala,224,224,1.0,3,106.24
+dataset/train\Batik Pala\56.jpg,Batik Pala,224,224,1.0,3,106.73
+dataset/train\Batik Pala\57.jpg,Batik Pala,224,224,1.0,3,100.54
+dataset/train\Batik Pala\58.jpg,Batik Pala,224,224,1.0,3,88.21
+dataset/train\Batik Pala\59.jpg,Batik Pala,224,224,1.0,3,110.74
+dataset/train\Batik Pala\6.jpg,Batik Pala,224,224,1.0,3,108.65
+dataset/train\Batik Pala\60.jpg,Batik Pala,224,224,1.0,3,208.95
+dataset/train\Batik Pala\61.jpg,Batik Pala,224,224,1.0,3,143.2
+dataset/train\Batik Pala\62.jpg,Batik Pala,224,224,1.0,3,101.54
+dataset/train\Batik Pala\63.jpg,Batik Pala,224,224,1.0,3,116.73
+dataset/train\Batik Pala\64.jpg,Batik Pala,224,224,1.0,3,118.65
+dataset/train\Batik Pala\65.jpg,Batik Pala,224,224,1.0,3,110.85
+dataset/train\Batik Pala\66.jpg,Batik Pala,224,224,1.0,3,80.71
+dataset/train\Batik Pala\67.jpg,Batik Pala,224,224,1.0,3,135.0
+dataset/train\Batik Pala\68.jpg,Batik Pala,224,224,1.0,3,89.82
+dataset/train\Batik Pala\69.jpg,Batik Pala,224,224,1.0,3,95.16
+dataset/train\Batik Pala\7.jpg,Batik Pala,224,224,1.0,3,218.82
+dataset/train\Batik Pala\8.jpg,Batik Pala,224,224,1.0,3,81.45
+dataset/train\Batik Pala\9.jpg,Batik Pala,224,224,1.0,3,197.98
+dataset/train\Batik Parang\0.jpg,Batik Parang,224,224,1.0,3,121.5
+dataset/train\Batik Parang\1.jpg,Batik Parang,224,224,1.0,3,143.71
+dataset/train\Batik Parang\10.jpg,Batik Parang,224,224,1.0,3,187.04
+dataset/train\Batik Parang\11.jpg,Batik Parang,224,224,1.0,3,171.17
+dataset/train\Batik Parang\12.jpg,Batik Parang,224,224,1.0,3,57.07
+dataset/train\Batik Parang\13.jpg,Batik Parang,224,224,1.0,3,96.09
+dataset/train\Batik Parang\14.jpg,Batik Parang,224,224,1.0,3,96.69
+dataset/train\Batik Parang\15.jpg,Batik Parang,224,224,1.0,3,78.87
+dataset/train\Batik Parang\16.jpg,Batik Parang,224,224,1.0,3,125.68
+dataset/train\Batik Parang\17.jpg,Batik Parang,224,224,1.0,3,100.2
+dataset/train\Batik Parang\18.jpg,Batik Parang,224,224,1.0,3,65.24
+dataset/train\Batik Parang\19.jpg,Batik Parang,224,224,1.0,3,79.76
+dataset/train\Batik Parang\2.jpg,Batik Parang,224,224,1.0,3,115.23
+dataset/train\Batik Parang\20.jpg,Batik Parang,224,224,1.0,3,102.46
+dataset/train\Batik Parang\21.jpg,Batik Parang,224,224,1.0,3,142.07
+dataset/train\Batik Parang\22.jpg,Batik Parang,224,224,1.0,3,92.3
+dataset/train\Batik Parang\23.jpg,Batik Parang,224,224,1.0,3,140.21
+dataset/train\Batik Parang\24.jpg,Batik Parang,224,224,1.0,3,142.77
+dataset/train\Batik Parang\25.jpg,Batik Parang,224,224,1.0,3,76.11
+dataset/train\Batik Parang\26.jpg,Batik Parang,224,224,1.0,3,90.94
+dataset/train\Batik Parang\27.jpg,Batik Parang,224,224,1.0,3,99.35
+dataset/train\Batik Parang\28.jpg,Batik Parang,224,224,1.0,3,128.73
+dataset/train\Batik Parang\29.jpg,Batik Parang,224,224,1.0,3,121.66
+dataset/train\Batik Parang\3.jpg,Batik Parang,224,224,1.0,3,178.48
+dataset/train\Batik Parang\30.jpg,Batik Parang,224,224,1.0,3,58.77
+dataset/train\Batik Parang\31.jpg,Batik Parang,224,224,1.0,3,137.94
+dataset/train\Batik Parang\32.jpg,Batik Parang,224,224,1.0,3,110.24
+dataset/train\Batik Parang\33.jpg,Batik Parang,224,224,1.0,3,105.21
+dataset/train\Batik Parang\34.jpg,Batik Parang,224,224,1.0,3,63.4
+dataset/train\Batik Parang\35.jpg,Batik Parang,224,224,1.0,3,86.2
+dataset/train\Batik Parang\36.jpg,Batik Parang,224,224,1.0,3,171.52
+dataset/train\Batik Parang\37.jpg,Batik Parang,224,224,1.0,3,104.92
+dataset/train\Batik Parang\38.jpg,Batik Parang,224,224,1.0,3,82.76
+dataset/train\Batik Parang\39.jpg,Batik Parang,224,224,1.0,3,123.04
+dataset/train\Batik Parang\4.jpg,Batik Parang,224,224,1.0,3,153.62
+dataset/train\Batik Parang\40.jpg,Batik Parang,224,224,1.0,3,139.67
+dataset/train\Batik Parang\41.jpg,Batik Parang,224,224,1.0,3,144.08
+dataset/train\Batik Parang\42.jpg,Batik Parang,224,224,1.0,3,78.15
+dataset/train\Batik Parang\43.jpg,Batik Parang,224,224,1.0,3,111.85
+dataset/train\Batik Parang\44.jpg,Batik Parang,224,224,1.0,3,76.33
+dataset/train\Batik Parang\45.jpg,Batik Parang,224,224,1.0,3,80.31
+dataset/train\Batik Parang\46.jpg,Batik Parang,224,224,1.0,3,133.4
+dataset/train\Batik Parang\47.jpg,Batik Parang,224,224,1.0,3,112.83
+dataset/train\Batik Parang\48.jpg,Batik Parang,224,224,1.0,3,101.18
+dataset/train\Batik Parang\49.jpg,Batik Parang,224,224,1.0,3,103.9
+dataset/train\Batik Parang\5.jpg,Batik Parang,224,224,1.0,3,113.12
+dataset/train\Batik Parang\50.jpg,Batik Parang,224,224,1.0,3,77.32
+dataset/train\Batik Parang\51.jpg,Batik Parang,224,224,1.0,3,111.07
+dataset/train\Batik Parang\52.jpg,Batik Parang,224,224,1.0,3,148.03
+dataset/train\Batik Parang\53.jpg,Batik Parang,224,224,1.0,3,121.21
+dataset/train\Batik Parang\54.jpg,Batik Parang,224,224,1.0,3,127.28
+dataset/train\Batik Parang\55.jpg,Batik Parang,224,224,1.0,3,111.66
+dataset/train\Batik Parang\56.jpg,Batik Parang,224,224,1.0,3,101.17
+dataset/train\Batik Parang\57.jpg,Batik Parang,224,224,1.0,3,83.01
+dataset/train\Batik Parang\58.jpg,Batik Parang,224,224,1.0,3,195.46
+dataset/train\Batik Parang\59.jpg,Batik Parang,224,224,1.0,3,171.45
+dataset/train\Batik Parang\6.jpg,Batik Parang,224,224,1.0,3,110.2
+dataset/train\Batik Parang\60.jpg,Batik Parang,224,224,1.0,3,139.52
+dataset/train\Batik Parang\61.jpg,Batik Parang,224,224,1.0,3,180.36
+dataset/train\Batik Parang\62.jpg,Batik Parang,224,224,1.0,3,135.24
+dataset/train\Batik Parang\63.jpg,Batik Parang,224,224,1.0,3,125.89
+dataset/train\Batik Parang\64.jpg,Batik Parang,224,224,1.0,3,107.38
+dataset/train\Batik Parang\65.jpg,Batik Parang,224,224,1.0,3,126.68
+dataset/train\Batik Parang\66.jpg,Batik Parang,224,224,1.0,3,140.85
+dataset/train\Batik Parang\67.jpg,Batik Parang,224,224,1.0,3,135.04
+dataset/train\Batik Parang\68.jpg,Batik Parang,224,224,1.0,3,127.07
+dataset/train\Batik Parang\69.jpg,Batik Parang,224,224,1.0,3,126.91
+dataset/train\Batik Parang\7.jpg,Batik Parang,224,224,1.0,3,81.74
+dataset/train\Batik Parang\8.jpg,Batik Parang,224,224,1.0,3,78.01
+dataset/train\Batik Parang\9.jpg,Batik Parang,224,224,1.0,3,83.75
+dataset/train\Batik Poleng\0.jpg,Batik Poleng,224,224,1.0,3,178.27
+dataset/train\Batik Poleng\1.jpg,Batik Poleng,224,224,1.0,3,109.97
+dataset/train\Batik Poleng\10.jpg,Batik Poleng,224,224,1.0,3,155.2
+dataset/train\Batik Poleng\11.jpg,Batik Poleng,224,224,1.0,3,225.27
+dataset/train\Batik Poleng\12.jpg,Batik Poleng,224,224,1.0,3,69.29
+dataset/train\Batik Poleng\13.jpg,Batik Poleng,224,224,1.0,3,87.04
+dataset/train\Batik Poleng\14.jpg,Batik Poleng,224,224,1.0,3,71.77
+dataset/train\Batik Poleng\15.jpg,Batik Poleng,224,224,1.0,3,120.19
+dataset/train\Batik Poleng\16.jpg,Batik Poleng,224,224,1.0,3,178.54
+dataset/train\Batik Poleng\17.jpg,Batik Poleng,224,224,1.0,3,177.33
+dataset/train\Batik Poleng\18.jpg,Batik Poleng,224,224,1.0,3,89.25
+dataset/train\Batik Poleng\19.jpg,Batik Poleng,224,224,1.0,3,107.45
+dataset/train\Batik Poleng\2.jpg,Batik Poleng,224,224,1.0,3,148.64
+dataset/train\Batik Poleng\20.jpg,Batik Poleng,224,224,1.0,3,159.42
+dataset/train\Batik Poleng\21.jpg,Batik Poleng,224,224,1.0,3,185.45
+dataset/train\Batik Poleng\22.jpg,Batik Poleng,224,224,1.0,3,152.74
+dataset/train\Batik Poleng\23.jpg,Batik Poleng,224,224,1.0,3,123.71
+dataset/train\Batik Poleng\24.jpg,Batik Poleng,224,224,1.0,3,86.07
+dataset/train\Batik Poleng\25.jpg,Batik Poleng,224,224,1.0,3,125.0
+dataset/train\Batik Poleng\26.jpg,Batik Poleng,224,224,1.0,3,109.74
+dataset/train\Batik Poleng\27.jpg,Batik Poleng,224,224,1.0,3,111.95
+dataset/train\Batik Poleng\28.jpg,Batik Poleng,224,224,1.0,3,107.06
+dataset/train\Batik Poleng\29.jpg,Batik Poleng,224,224,1.0,3,122.46
+dataset/train\Batik Poleng\3.jpg,Batik Poleng,224,224,1.0,3,92.29
+dataset/train\Batik Poleng\30.jpg,Batik Poleng,224,224,1.0,3,145.72
+dataset/train\Batik Poleng\31.jpg,Batik Poleng,224,224,1.0,3,105.57
+dataset/train\Batik Poleng\32.jpg,Batik Poleng,224,224,1.0,3,137.2
+dataset/train\Batik Poleng\33.jpg,Batik Poleng,224,224,1.0,3,115.21
+dataset/train\Batik Poleng\34.jpg,Batik Poleng,224,224,1.0,3,159.56
+dataset/train\Batik Poleng\35.jpg,Batik Poleng,224,224,1.0,3,146.88
+dataset/train\Batik Poleng\36.jpg,Batik Poleng,224,224,1.0,3,109.37
+dataset/train\Batik Poleng\37.jpg,Batik Poleng,224,224,1.0,3,145.35
+dataset/train\Batik Poleng\38.jpg,Batik Poleng,224,224,1.0,3,104.04
+dataset/train\Batik Poleng\39.jpg,Batik Poleng,224,224,1.0,3,183.68
+dataset/train\Batik Poleng\4.jpg,Batik Poleng,224,224,1.0,3,91.59
+dataset/train\Batik Poleng\40.jpg,Batik Poleng,224,224,1.0,3,141.56
+dataset/train\Batik Poleng\41.jpg,Batik Poleng,224,224,1.0,3,132.91
+dataset/train\Batik Poleng\42.jpg,Batik Poleng,224,224,1.0,3,99.48
+dataset/train\Batik Poleng\43.jpg,Batik Poleng,224,224,1.0,3,192.96
+dataset/train\Batik Poleng\44.jpg,Batik Poleng,224,224,1.0,3,118.51
+dataset/train\Batik Poleng\45.jpg,Batik Poleng,224,224,1.0,3,94.71
+dataset/train\Batik Poleng\46.jpg,Batik Poleng,224,224,1.0,3,161.84
+dataset/train\Batik Poleng\47.jpg,Batik Poleng,224,224,1.0,3,102.83
+dataset/train\Batik Poleng\48.jpg,Batik Poleng,224,224,1.0,3,127.28
+dataset/train\Batik Poleng\49.jpg,Batik Poleng,224,224,1.0,3,144.03
+dataset/train\Batik Poleng\5.jpg,Batik Poleng,224,224,1.0,3,146.63
+dataset/train\Batik Poleng\50.jpg,Batik Poleng,224,224,1.0,3,117.37
+dataset/train\Batik Poleng\51.jpg,Batik Poleng,224,224,1.0,3,240.47
+dataset/train\Batik Poleng\52.jpg,Batik Poleng,224,224,1.0,3,128.33
+dataset/train\Batik Poleng\53.jpg,Batik Poleng,224,224,1.0,3,182.81
+dataset/train\Batik Poleng\54.jpg,Batik Poleng,224,224,1.0,3,133.91
+dataset/train\Batik Poleng\55.jpg,Batik Poleng,224,224,1.0,3,133.19
+dataset/train\Batik Poleng\56.jpg,Batik Poleng,224,224,1.0,3,145.31
+dataset/train\Batik Poleng\57.jpg,Batik Poleng,224,224,1.0,3,94.12
+dataset/train\Batik Poleng\58.jpg,Batik Poleng,224,224,1.0,3,94.6
+dataset/train\Batik Poleng\59.jpg,Batik Poleng,224,224,1.0,3,99.5
+dataset/train\Batik Poleng\6.jpg,Batik Poleng,224,224,1.0,3,137.8
+dataset/train\Batik Poleng\60.jpg,Batik Poleng,224,224,1.0,3,119.63
+dataset/train\Batik Poleng\61.jpg,Batik Poleng,224,224,1.0,3,131.78
+dataset/train\Batik Poleng\62.jpg,Batik Poleng,224,224,1.0,3,153.4
+dataset/train\Batik Poleng\63.jpg,Batik Poleng,224,224,1.0,3,117.8
+dataset/train\Batik Poleng\64.jpg,Batik Poleng,224,224,1.0,3,98.55
+dataset/train\Batik Poleng\65.jpg,Batik Poleng,224,224,1.0,3,142.75
+dataset/train\Batik Poleng\66.jpg,Batik Poleng,224,224,1.0,3,179.65
+dataset/train\Batik Poleng\67.jpg,Batik Poleng,224,224,1.0,3,93.19
+dataset/train\Batik Poleng\68.jpg,Batik Poleng,224,224,1.0,3,96.8
+dataset/train\Batik Poleng\69.jpg,Batik Poleng,224,224,1.0,3,142.24
+dataset/train\Batik Poleng\7.jpg,Batik Poleng,224,224,1.0,3,110.1
+dataset/train\Batik Poleng\8.jpg,Batik Poleng,224,224,1.0,3,144.53
+dataset/train\Batik Poleng\9.jpg,Batik Poleng,224,224,1.0,3,125.39
+dataset/train\Batik Sekar Jagad\0.jpg,Batik Sekar Jagad,224,224,1.0,3,138.98
+dataset/train\Batik Sekar Jagad\1.jpg,Batik Sekar Jagad,224,224,1.0,3,140.2
+dataset/train\Batik Sekar Jagad\10.jpg,Batik Sekar Jagad,224,224,1.0,3,120.65
+dataset/train\Batik Sekar Jagad\11.jpg,Batik Sekar Jagad,224,224,1.0,3,133.62
+dataset/train\Batik Sekar Jagad\12.jpg,Batik Sekar Jagad,224,224,1.0,3,128.02
+dataset/train\Batik Sekar Jagad\13.jpg,Batik Sekar Jagad,224,224,1.0,3,138.88
+dataset/train\Batik Sekar Jagad\14.jpg,Batik Sekar Jagad,224,224,1.0,3,75.03
+dataset/train\Batik Sekar Jagad\15.jpg,Batik Sekar Jagad,224,224,1.0,3,139.47
+dataset/train\Batik Sekar Jagad\16.jpg,Batik Sekar Jagad,224,224,1.0,3,146.26
+dataset/train\Batik Sekar Jagad\17.jpg,Batik Sekar Jagad,224,224,1.0,3,109.12
+dataset/train\Batik Sekar Jagad\18.jpg,Batik Sekar Jagad,224,224,1.0,3,98.14
+dataset/train\Batik Sekar Jagad\19.jpg,Batik Sekar Jagad,224,224,1.0,3,121.86
+dataset/train\Batik Sekar Jagad\2.jpg,Batik Sekar Jagad,224,224,1.0,3,112.24
+dataset/train\Batik Sekar Jagad\20.jpg,Batik Sekar Jagad,224,224,1.0,3,118.49
+dataset/train\Batik Sekar Jagad\21.jpg,Batik Sekar Jagad,224,224,1.0,3,112.24
+dataset/train\Batik Sekar Jagad\22.jpg,Batik Sekar Jagad,224,224,1.0,3,93.74
+dataset/train\Batik Sekar Jagad\23.jpg,Batik Sekar Jagad,224,224,1.0,3,126.62
+dataset/train\Batik Sekar Jagad\24.jpg,Batik Sekar Jagad,224,224,1.0,3,100.89
+dataset/train\Batik Sekar Jagad\25.jpg,Batik Sekar Jagad,224,224,1.0,3,91.41
+dataset/train\Batik Sekar Jagad\26.jpg,Batik Sekar Jagad,224,224,1.0,3,107.95
+dataset/train\Batik Sekar Jagad\27.jpg,Batik Sekar Jagad,224,224,1.0,3,136.67
+dataset/train\Batik Sekar Jagad\28.jpg,Batik Sekar Jagad,224,224,1.0,3,127.01
+dataset/train\Batik Sekar Jagad\29.jpg,Batik Sekar Jagad,224,224,1.0,3,106.89
+dataset/train\Batik Sekar Jagad\3.jpg,Batik Sekar Jagad,224,224,1.0,3,115.75
+dataset/train\Batik Sekar Jagad\30.jpg,Batik Sekar Jagad,224,224,1.0,3,95.69
+dataset/train\Batik Sekar Jagad\31.jpg,Batik Sekar Jagad,224,224,1.0,3,89.26
+dataset/train\Batik Sekar Jagad\32.jpg,Batik Sekar Jagad,224,224,1.0,3,133.76
+dataset/train\Batik Sekar Jagad\33.jpg,Batik Sekar Jagad,224,224,1.0,3,116.14
+dataset/train\Batik Sekar Jagad\34.jpg,Batik Sekar Jagad,224,224,1.0,3,135.27
+dataset/train\Batik Sekar Jagad\35.jpg,Batik Sekar Jagad,224,224,1.0,3,114.74
+dataset/train\Batik Sekar Jagad\36.jpg,Batik Sekar Jagad,224,224,1.0,3,112.95
+dataset/train\Batik Sekar Jagad\37.jpg,Batik Sekar Jagad,224,224,1.0,3,101.34
+dataset/train\Batik Sekar Jagad\38.jpg,Batik Sekar Jagad,224,224,1.0,3,104.98
+dataset/train\Batik Sekar Jagad\39.jpg,Batik Sekar Jagad,224,224,1.0,3,94.18
+dataset/train\Batik Sekar Jagad\4.jpg,Batik Sekar Jagad,224,224,1.0,3,142.3
+dataset/train\Batik Sekar Jagad\40.jpg,Batik Sekar Jagad,224,224,1.0,3,95.64
+dataset/train\Batik Sekar Jagad\41.jpg,Batik Sekar Jagad,224,224,1.0,3,147.89
+dataset/train\Batik Sekar Jagad\42.jpg,Batik Sekar Jagad,224,224,1.0,3,128.71
+dataset/train\Batik Sekar Jagad\43.jpg,Batik Sekar Jagad,224,224,1.0,3,125.52
+dataset/train\Batik Sekar Jagad\44.jpg,Batik Sekar Jagad,224,224,1.0,3,133.29
+dataset/train\Batik Sekar Jagad\45.jpg,Batik Sekar Jagad,224,224,1.0,3,112.16
+dataset/train\Batik Sekar Jagad\46.jpg,Batik Sekar Jagad,224,224,1.0,3,79.32
+dataset/train\Batik Sekar Jagad\47.jpg,Batik Sekar Jagad,224,224,1.0,3,137.76
+dataset/train\Batik Sekar Jagad\48.jpg,Batik Sekar Jagad,224,224,1.0,3,109.86
+dataset/train\Batik Sekar Jagad\49.jpg,Batik Sekar Jagad,224,224,1.0,3,106.89
+dataset/train\Batik Sekar Jagad\5.jpg,Batik Sekar Jagad,224,224,1.0,3,92.49
+dataset/train\Batik Sekar Jagad\50.jpg,Batik Sekar Jagad,224,224,1.0,3,97.13
+dataset/train\Batik Sekar Jagad\51.jpg,Batik Sekar Jagad,224,224,1.0,3,116.02
+dataset/train\Batik Sekar Jagad\52.jpg,Batik Sekar Jagad,224,224,1.0,3,124.23
+dataset/train\Batik Sekar Jagad\53.jpg,Batik Sekar Jagad,224,224,1.0,3,130.2
+dataset/train\Batik Sekar Jagad\54.jpg,Batik Sekar Jagad,224,224,1.0,3,153.2
+dataset/train\Batik Sekar Jagad\55.jpg,Batik Sekar Jagad,224,224,1.0,3,116.61
+dataset/train\Batik Sekar Jagad\56.jpg,Batik Sekar Jagad,224,224,1.0,3,111.25
+dataset/train\Batik Sekar Jagad\57.jpg,Batik Sekar Jagad,224,224,1.0,3,122.27
+dataset/train\Batik Sekar Jagad\58.jpg,Batik Sekar Jagad,224,224,1.0,3,127.32
+dataset/train\Batik Sekar Jagad\59.jpg,Batik Sekar Jagad,224,224,1.0,3,127.35
+dataset/train\Batik Sekar Jagad\6.jpg,Batik Sekar Jagad,224,224,1.0,3,119.68
+dataset/train\Batik Sekar Jagad\60.jpg,Batik Sekar Jagad,224,224,1.0,3,131.08
+dataset/train\Batik Sekar Jagad\61.jpg,Batik Sekar Jagad,224,224,1.0,3,99.65
+dataset/train\Batik Sekar Jagad\62.jpg,Batik Sekar Jagad,224,224,1.0,3,152.0
+dataset/train\Batik Sekar Jagad\63.jpg,Batik Sekar Jagad,224,224,1.0,3,204.39
+dataset/train\Batik Sekar Jagad\64.jpg,Batik Sekar Jagad,224,224,1.0,3,191.0
+dataset/train\Batik Sekar Jagad\65.jpg,Batik Sekar Jagad,224,224,1.0,3,113.94
+dataset/train\Batik Sekar Jagad\66.jpg,Batik Sekar Jagad,224,224,1.0,3,107.63
+dataset/train\Batik Sekar Jagad\67.jpg,Batik Sekar Jagad,224,224,1.0,3,141.11
+dataset/train\Batik Sekar Jagad\68.jpg,Batik Sekar Jagad,224,224,1.0,3,109.12
+dataset/train\Batik Sekar Jagad\69.jpg,Batik Sekar Jagad,224,224,1.0,3,110.92
+dataset/train\Batik Sekar Jagad\7.jpg,Batik Sekar Jagad,224,224,1.0,3,74.93
+dataset/train\Batik Sekar Jagad\8.jpg,Batik Sekar Jagad,224,224,1.0,3,118.78
+dataset/train\Batik Sekar Jagad\9.jpg,Batik Sekar Jagad,224,224,1.0,3,68.32
+dataset/train\Batik Tambal\0.jpg,Batik Tambal,224,224,1.0,3,166.84
+dataset/train\Batik Tambal\1.jpg,Batik Tambal,224,224,1.0,3,54.45
+dataset/train\Batik Tambal\10.jpg,Batik Tambal,224,224,1.0,3,149.81
+dataset/train\Batik Tambal\11.jpg,Batik Tambal,224,224,1.0,3,98.0
+dataset/train\Batik Tambal\12.jpg,Batik Tambal,224,224,1.0,3,90.99
+dataset/train\Batik Tambal\13.jpg,Batik Tambal,224,224,1.0,3,114.34
+dataset/train\Batik Tambal\14.jpg,Batik Tambal,224,224,1.0,3,94.5
+dataset/train\Batik Tambal\15.jpg,Batik Tambal,224,224,1.0,3,100.14
+dataset/train\Batik Tambal\16.jpg,Batik Tambal,224,224,1.0,3,118.12
+dataset/train\Batik Tambal\17.jpg,Batik Tambal,224,224,1.0,3,188.95
+dataset/train\Batik Tambal\18.jpg,Batik Tambal,224,224,1.0,3,94.01
+dataset/train\Batik Tambal\19.jpg,Batik Tambal,224,224,1.0,3,102.71
+dataset/train\Batik Tambal\2.jpg,Batik Tambal,224,224,1.0,3,82.14
+dataset/train\Batik Tambal\20.jpg,Batik Tambal,224,224,1.0,3,99.7
+dataset/train\Batik Tambal\21.jpg,Batik Tambal,224,224,1.0,3,193.14
+dataset/train\Batik Tambal\22.jpg,Batik Tambal,224,224,1.0,3,113.1
+dataset/train\Batik Tambal\23.jpg,Batik Tambal,224,224,1.0,3,148.59
+dataset/train\Batik Tambal\24.jpg,Batik Tambal,224,224,1.0,3,121.03
+dataset/train\Batik Tambal\25.jpg,Batik Tambal,224,224,1.0,3,118.18
+dataset/train\Batik Tambal\26.jpg,Batik Tambal,224,224,1.0,3,122.43
+dataset/train\Batik Tambal\27.jpg,Batik Tambal,224,224,1.0,3,154.98
+dataset/train\Batik Tambal\28.jpg,Batik Tambal,224,224,1.0,3,93.0
+dataset/train\Batik Tambal\29.jpg,Batik Tambal,224,224,1.0,3,89.33
+dataset/train\Batik Tambal\3.jpg,Batik Tambal,224,224,1.0,3,92.0
+dataset/train\Batik Tambal\30.jpg,Batik Tambal,224,224,1.0,3,102.48
+dataset/train\Batik Tambal\31.jpg,Batik Tambal,224,224,1.0,3,94.5
+dataset/train\Batik Tambal\32.jpg,Batik Tambal,224,224,1.0,3,125.54
+dataset/train\Batik Tambal\33.jpg,Batik Tambal,224,224,1.0,3,90.44
+dataset/train\Batik Tambal\34.jpg,Batik Tambal,224,224,1.0,3,122.34
+dataset/train\Batik Tambal\35.jpg,Batik Tambal,224,224,1.0,3,104.96
+dataset/train\Batik Tambal\36.jpg,Batik Tambal,224,224,1.0,3,96.82
+dataset/train\Batik Tambal\37.jpg,Batik Tambal,224,224,1.0,3,88.56
+dataset/train\Batik Tambal\38.jpg,Batik Tambal,224,224,1.0,3,138.99
+dataset/train\Batik Tambal\39.jpg,Batik Tambal,224,224,1.0,3,92.0
+dataset/train\Batik Tambal\4.jpg,Batik Tambal,224,224,1.0,3,102.68
+dataset/train\Batik Tambal\40.jpg,Batik Tambal,224,224,1.0,3,116.04
+dataset/train\Batik Tambal\41.jpg,Batik Tambal,224,224,1.0,3,96.98
+dataset/train\Batik Tambal\42.jpg,Batik Tambal,224,224,1.0,3,92.93
+dataset/train\Batik Tambal\43.jpg,Batik Tambal,224,224,1.0,3,95.5
+dataset/train\Batik Tambal\44.jpg,Batik Tambal,224,224,1.0,3,109.52
+dataset/train\Batik Tambal\45.jpg,Batik Tambal,224,224,1.0,3,75.12
+dataset/train\Batik Tambal\46.jpg,Batik Tambal,224,224,1.0,3,104.88
+dataset/train\Batik Tambal\47.jpg,Batik Tambal,224,224,1.0,3,184.37
+dataset/train\Batik Tambal\48.jpg,Batik Tambal,224,224,1.0,3,118.12
+dataset/train\Batik Tambal\49.jpg,Batik Tambal,224,224,1.0,3,105.76
+dataset/train\Batik Tambal\5.jpg,Batik Tambal,224,224,1.0,3,114.27
+dataset/train\Batik Tambal\50.jpg,Batik Tambal,224,224,1.0,3,120.78
+dataset/train\Batik Tambal\51.jpg,Batik Tambal,224,224,1.0,3,84.24
+dataset/train\Batik Tambal\52.jpg,Batik Tambal,224,224,1.0,3,107.29
+dataset/train\Batik Tambal\53.jpg,Batik Tambal,224,224,1.0,3,124.77
+dataset/train\Batik Tambal\54.jpg,Batik Tambal,224,224,1.0,3,127.27
+dataset/train\Batik Tambal\55.jpg,Batik Tambal,224,224,1.0,3,86.94
+dataset/train\Batik Tambal\56.jpg,Batik Tambal,224,224,1.0,3,160.78
+dataset/train\Batik Tambal\57.jpg,Batik Tambal,224,224,1.0,3,84.64
+dataset/train\Batik Tambal\58.jpg,Batik Tambal,224,224,1.0,3,125.07
+dataset/train\Batik Tambal\59.jpg,Batik Tambal,224,224,1.0,3,77.41
+dataset/train\Batik Tambal\6.jpg,Batik Tambal,224,224,1.0,3,120.78
+dataset/train\Batik Tambal\60.jpg,Batik Tambal,224,224,1.0,3,97.51
+dataset/train\Batik Tambal\61.jpg,Batik Tambal,224,224,1.0,3,139.35
+dataset/train\Batik Tambal\62.jpg,Batik Tambal,224,224,1.0,3,88.03
+dataset/train\Batik Tambal\63.jpg,Batik Tambal,224,224,1.0,3,171.55
+dataset/train\Batik Tambal\64.jpg,Batik Tambal,224,224,1.0,3,131.56
+dataset/train\Batik Tambal\65.jpg,Batik Tambal,224,224,1.0,3,147.71
+dataset/train\Batik Tambal\66.jpg,Batik Tambal,224,224,1.0,3,71.13
+dataset/train\Batik Tambal\67.jpg,Batik Tambal,224,224,1.0,3,81.48
+dataset/train\Batik Tambal\68.jpg,Batik Tambal,224,224,1.0,3,55.33
+dataset/train\Batik Tambal\69.jpg,Batik Tambal,224,224,1.0,3,97.02
+dataset/train\Batik Tambal\7.jpg,Batik Tambal,224,224,1.0,3,76.74
+dataset/train\Batik Tambal\8.jpg,Batik Tambal,224,224,1.0,3,83.63
+dataset/train\Batik Tambal\9.jpg,Batik Tambal,224,224,1.0,3,97.51
