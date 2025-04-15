@@ -30,7 +30,7 @@ Proyek ini merupakan implementasi sederhana klasifikasi gambar batik Indonesia m
 - ⚙️ Konfigurasi tambahan dengan batik.yaml untuk pengaturan model atau training
 
 ## Gambar
-![Screenshot Aplikasi](https://s3-alpha.figma.com/hub/file/6817135200/1ac44edf-91e3-449c-9598-cc2d0bd7360e-cover.png)
+![Screenshot Aplikasi](re.jpg)
 
 ## Instalasi
 1. Clone repositori
